@@ -6,8 +6,20 @@
           <option name="url" value="https://github.com/NecroDriver/study.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.meechao.com/meehe/meehe-asp/tree/master" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.meechao.com/meehe/meehe-asp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.meechao.com" />
+          <option name="userName" value="mafh" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\" />
+    <option name="cloneParentDir" value="E:\workspace-meechao" />
   </component>
 </application>
