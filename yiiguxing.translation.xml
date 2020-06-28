@@ -1,14 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="segments" />
       <item value="/** * Process the Web request and (optionally) delegate to the next {@code WebFilter} * through the given {@link GatewayFilterChain}. * @param exchange the current server exchange * @param chain provides a way to delegate to the next filter * @return {@code Mono&lt;Void&gt;} to indicate when request processing is complete */" />
       <item value="Lombok Requires Annotation Processing: Do you want to enable annotation processors?" />
       <item value="/** * To be used by custom operators: invokes assembly {@link Hooks} pointcut given a * {@link Mono}, potentially returning a new {@link Mono}. This is for example useful * to activate cross-cutting concerns at assembly time, eg. a generalized * {@link #checkpoint()}. * * @param &lt;T&gt; the value type * @param source the source to apply assembly hooks onto * * @return the source, potentially wrapped with assembly time cross-cutting behavior */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="3" />
+        <entry key="CHINESE" value="3" />
+        <entry key="ENGLISH" value="4" />
       </map>
     </option>
   </component>
