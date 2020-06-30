@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Constant expression required" />
       <item value="/** * Describes the default value for the parameter. * &lt;p&gt; * If the parameter is annotated with JAX-RS's {@code @DefaultValue}, that value would * be used, but can be overridden by setting this property. */" />
       <item value="/** * A brief description of the parameter. */" />
       <item value="/** * The parameter name. * &lt;p&gt; * The name of the parameter will be derived from the field/method/parameter name, * however you can override it. * &lt;p&gt; * Path parameters must always be named as the path section they represent. */" />
@@ -11,7 +12,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6" />
+        <entry key="CHINESE" value="7" />
         <entry key="ENGLISH" value="7" />
       </map>
     </option>
