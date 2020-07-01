@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="remarked" />
       <item value="Constant expression required" />
       <item value="/** * Describes the default value for the parameter. * &lt;p&gt; * If the parameter is annotated with JAX-RS's {@code @DefaultValue}, that value would * be used, but can be overridden by setting this property. */" />
       <item value="/** * A brief description of the parameter. */" />
@@ -13,7 +14,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="7" />
+        <entry key="ENGLISH" value="8" />
       </map>
     </option>
   </component>
