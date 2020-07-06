@@ -9,4 +9,9 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="mca" value="/*--------------------------------- 参数声明 ---------------------------------*/&#10;JSONObject json = ResultJson.trueResult();&#10;&#10;/*--------------------------------- 业务处理 ---------------------------------*/&#10;try {&#10;    &#10;    json.put(&quot;data&quot;, data);&#10;} catch (Exception e) {&#10;    json = new ResultJson(false, 1, e.getMessage()).toJSONObject();&#10;}&#10;&#10;/*--------------------------------- 封装结果 ---------------------------------*/&#10;writer.write(JSONUtils.toJSONString(json));" description="老版本controller格式" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
