@@ -1,5 +1,6 @@
 <application>
   <component name="EasyCodeSetting">
+    <option name="author" value="mafh" />
     <option name="currTemplateGroupName" value="wwy-MybatisPlus" />
     <option name="templateGroupMap">
       <map>
