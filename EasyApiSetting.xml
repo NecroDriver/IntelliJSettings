@@ -1,5 +1,6 @@
 <application>
   <component name="EasyApiSetting">
+    <option name="postmanToken" value="" />
     <option name="yapiServer" value="http://yapi.meechao.com/" />
     <option name="yapiTokens" value="#&#13;&#10;#Tue Jul 07 10:58:55 CST 2020&#13;&#10;meehe_app=bde0cc3bcd47af226cf012df7d3b5fbe759a18c7c1f435efe966f5a66fe89010&#13;&#10;" />
   </component>
