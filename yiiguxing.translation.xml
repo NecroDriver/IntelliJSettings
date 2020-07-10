@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="/** * Returns a function that always returns its input argument. * * @param &lt;T&gt; the type of the input and output objects to the function * @return a function that always returns its input argument */" />
       <item value="/** * Build excel the read * * @param inputStream * Input stream to read. * @param head * Annotate the class for configuration information. * @param readListener * Read listener. * @return Excel reader builder. */" />
       <item value="Extract the SQL and fill the parameters into the SQL you only need copy the Mybatis log with prepare:xxx parameters:xxx, and click the right mouse to choose MybatisLogPlugin,then will popup a tooltip which is the sql that can be execute into mysql. If you have question or other idea,you can send email to me(1024557668@qq.com)" />
       <item value="NOT STATED" />
@@ -18,8 +19,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="11" />
-        <entry key="ENGLISH" value="12" />
+        <entry key="CHINESE" value="12" />
+        <entry key="ENGLISH" value="13" />
       </map>
     </option>
   </component>
