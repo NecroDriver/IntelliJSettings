@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="扣除金额" />
       <item value="提现" />
       <item value="WITHDRAWAL" />
       <item value="split List" />
@@ -33,8 +34,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="23" />
-        <entry key="ENGLISH" value="23" />
+        <entry key="CHINESE" value="24" />
+        <entry key="ENGLISH" value="24" />
       </map>
     </option>
   </component>
