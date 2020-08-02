@@ -7,15 +7,49 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://git.meechao.com/meehe/meehe-voucher.git" />
+          <option name="url" value="http://git.meechao.com/meehe/meehe-asp/tree/master" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.meechao.com/meehe/meehe-asp.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://git.meechao.com" />
           <option name="userName" value="mafh" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.meechao.com/meehe/meechao-pay.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.meechao.com/meehe/meehe-voucher.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Zealon159/light-reading-cloud.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Zealon159/light-reading-cloud-client.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.meechao.com/meehe/meehe-gateway.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="F:\workspace-meechao" />
+    <option name="cloneParentDir" value="E:\workspace-meechao" />
+  </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="1" />
+        <option value="2" />
+        <option value="3" />
+      </list>
+    </option>
   </component>
 </application>

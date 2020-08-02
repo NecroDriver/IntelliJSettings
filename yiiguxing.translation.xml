@@ -1,0 +1,42 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="扣除金额" />
+      <item value="提现" />
+      <item value="WITHDRAWAL" />
+      <item value="split List" />
+      <item value="版本号" />
+      <item value="/** * Set the HTTP status code of the response. * @param status the HTTP status as an {@link HttpStatus} enum value * @return {@code false} if the status code has not been set because the HTTP response * is already committed, {@code true} if it has been set correctly. */" />
+      <item value="Update Verify Filter" />
+      <item value="Update Auth Filter" />
+      <item value="验证" />
+      <item value="auth" />
+      <item value="latest Invite Time" />
+      <item value="HAVING" />
+      <item value="Not registered via @EnableConfigurationProperties, marked as Spring component, or scanned via @ConfigurationPropertiesScan" />
+      <item value="/** * Returns a stream consisting of the elements of this stream, additionally * performing the provided action on each element as elements are consumed * from the resulting stream. * * &lt;p&gt;This is an &lt;a href=&quot;package-summary.html#StreamOps&quot;&gt;intermediate * operation&lt;/a&gt;. * * &lt;p&gt;For parallel stream pipelines, the action may be called at * whatever time and in whatever thread the element is made available by the * upstream operation. If the action modifies shared state, * it is responsible for providing the required synchronization. * * @apiNote This method exists mainly to support debugging, where you want * to see the elements as they flow past a certain point in a pipeline: * &lt;pre&gt;{@code * Stream.of(&quot;one&quot;, &quot;two&quot;, &quot;three&quot;, &quot;four&quot;) * .filter(e -&gt; e.length() &gt; 3) * .peek(e -&gt; System.out.println(&quot;Filtered value: &quot; + e)) * .map(String::toUpperCase) * .peek(e -&gt; System.out.println(&quot;Mapped value: &quot; + e)) * .collect(Collectors.toList()); * }&lt;/pre&gt; * * &lt;p&gt;In cases where the stream implementation is able to optimize away the * production of some or all the elements (such as with short-circuiting * operations like {@code findFirst}, or in the example described in * {@link #count}), the action will not be invoked for those elements. * * @param action a &lt;a href=&quot;package-summary.html#NonInterference&quot;&gt; * non-interfering&lt;/a&gt; action to perform on the elements as * they are consumed from the stream * @return the new stream */" />
+      <item value="/** * The name of the sheet header. * * &lt;p&gt; * write: It automatically merges when you have more than one head * &lt;p&gt; * read: When you have multiple heads, take the first one * * @return The name of the sheet header */" />
+      <item value="/** * Returns a function that always returns its input argument. * * @param &lt;T&gt; the type of the input and output objects to the function * @return a function that always returns its input argument */" />
+      <item value="/** * Build excel the read * * @param inputStream * Input stream to read. * @param head * Annotate the class for configuration information. * @param readListener * Read listener. * @return Excel reader builder. */" />
+      <item value="Extract the SQL and fill the parameters into the SQL you only need copy the Mybatis log with prepare:xxx parameters:xxx, and click the right mouse to choose MybatisLogPlugin,then will popup a tooltip which is the sql that can be execute into mysql. If you have question or other idea,you can send email to me(1024557668@qq.com)" />
+      <item value="NOT STATED" />
+      <item value="org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'meeAccountController': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private com.mh.admin.service.SystemUserService com.mh.admin.controller.account.MeeAccountController.service; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'systemUserService' defined in file [E:\workspace-meechao\meehe-asp\meehe_manager\target\ROOT\WEB-INF\classes\com\mh\admin\service\SystemUserService.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.mh.admin.service.SystemUserService]: Constructor threw exception; nested exception is java.lang.ExceptionInInitializerError" />
+      <item value="Could not find acceptable representation" />
+      <item value="remarked" />
+      <item value="Constant expression required" />
+      <item value="/** * Describes the default value for the parameter. * &lt;p&gt; * If the parameter is annotated with JAX-RS's {@code @DefaultValue}, that value would * be used, but can be overridden by setting this property. */" />
+      <item value="/** * A brief description of the parameter. */" />
+      <item value="/** * The parameter name. * &lt;p&gt; * The name of the parameter will be derived from the field/method/parameter name, * however you can override it. * &lt;p&gt; * Path parameters must always be named as the path section they represent. */" />
+      <item value="segments" />
+      <item value="/** * Process the Web request and (optionally) delegate to the next {@code WebFilter} * through the given {@link GatewayFilterChain}. * @param exchange the current server exchange * @param chain provides a way to delegate to the next filter * @return {@code Mono&lt;Void&gt;} to indicate when request processing is complete */" />
+      <item value="Lombok Requires Annotation Processing: Do you want to enable annotation processors?" />
+      <item value="/** * To be used by custom operators: invokes assembly {@link Hooks} pointcut given a * {@link Mono}, potentially returning a new {@link Mono}. This is for example useful * to activate cross-cutting concerns at assembly time, eg. a generalized * {@link #checkpoint()}. * * @param &lt;T&gt; the value type * @param source the source to apply assembly hooks onto * * @return the source, potentially wrapped with assembly time cross-cutting behavior */" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="24" />
+        <entry key="ENGLISH" value="24" />
+      </map>
+    </option>
+  </component>
+</application>
