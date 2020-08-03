@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No Delivery" />
+      <item value="time Out No Delivery Order To Received" />
       <item value="扣除金额" />
       <item value="提现" />
       <item value="WITHDRAWAL" />
@@ -34,8 +36,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="24" />
-        <entry key="ENGLISH" value="24" />
+        <entry key="CHINESE" value="25" />
+        <entry key="ENGLISH" value="26" />
       </map>
     </option>
   </component>
