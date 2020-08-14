@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="CARD DYNAMIC TODAY PUBLISHED" />
       <item value="total Invitation Reward" />
       <item value="发布动态" />
       <item value="card Dynamic Page" />
@@ -42,7 +43,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="31" />
-        <entry key="ENGLISH" value="31" />
+        <entry key="ENGLISH" value="32" />
       </map>
     </option>
   </component>
