@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Invoke the handler method with the given argument values." />
       <item value="org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Cannot deserialize instance of `java.util.ArrayList` out of VALUE_STRING token; nested exception is com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot deserialize instance of `java.util.ArrayList` out of VALUE_STRING token" />
       <item value="CARD DYNAMIC TODAY PUBLISHED" />
       <item value="total Invitation Reward" />
@@ -43,8 +44,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="32" />
-        <entry key="ENGLISH" value="33" />
+        <entry key="CHINESE" value="33" />
+        <entry key="ENGLISH" value="34" />
       </map>
     </option>
   </component>
