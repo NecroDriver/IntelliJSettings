@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="bubble" />
       <item value="Consumer" />
       <item value="divide" />
       <item value="is Not Blank" />
@@ -51,7 +52,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="39" />
-        <entry key="ENGLISH" value="39" />
+        <entry key="ENGLISH" value="40" />
       </map>
     </option>
   </component>
