@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="退款" />
       <item value="balance" />
       <item value="不足" />
       <item value="账户余额不足" />
@@ -50,11 +51,10 @@
       <item value="Extract the SQL and fill the parameters into the SQL you only need copy the Mybatis log with prepare:xxx parameters:xxx, and click the right mouse to choose MybatisLogPlugin,then will popup a tooltip which is the sql that can be execute into mysql. If you have question or other idea,you can send email to me(1024557668@qq.com)" />
       <item value="NOT STATED" />
       <item value="org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'meeAccountController': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private com.mh.admin.service.SystemUserService com.mh.admin.controller.account.MeeAccountController.service; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'systemUserService' defined in file [E:\workspace-meechao\meehe-asp\meehe_manager\target\ROOT\WEB-INF\classes\com\mh\admin\service\SystemUserService.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.mh.admin.service.SystemUserService]: Constructor threw exception; nested exception is java.lang.ExceptionInInitializerError" />
-      <item value="Could not find acceptable representation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="51" />
+        <entry key="CHINESE" value="52" />
         <entry key="ENGLISH" value="52" />
       </map>
     </option>
