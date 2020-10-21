@@ -42,6 +42,10 @@
           <option name="url" value="http://git.meechao.com/mh-merchant/gateway.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.meechao.com/common/meechao-common.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\workspace-meechao" />
