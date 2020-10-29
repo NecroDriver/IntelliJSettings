@@ -1,6 +1,36 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="退款" />
+      <item value="balance" />
+      <item value="不足" />
+      <item value="账户余额不足" />
+      <item value="Integral" />
+      <item value="Pay Integral Service Impl" />
+      <item value="consumer Info" />
+      <item value="Some problems were encountered while building the effective model for com.meechao:ronghe:jar:1.0.0-SNAPSHOT 'dependencyManagement.dependencies.dependency.(groupId:artifactId:type:classifier)' must be unique: org.projectlombok:lombok:jar -&gt; version (?) vs ${lombok.version} @ com.meechao.common:common:2.0.0, C:\Users\lemon\.m2\repository\com\meechao\common\common\2.0.0\common-2.0.0.pom, line 225, column 25 It is highly recommended to fix these problems because they threaten the stability of your build. For this reason, future Maven versions might no longer support building such malformed projects." />
+      <item value="LOGIN FORBIDDEN" />
+      <item value="TOO MUCH TIMES CAPTCHA" />
+      <item value="TOO MUCH TIME CAPTCHA" />
+      <item value="TOO MUCH CAPTCHA" />
+      <item value="CAPTCHA" />
+      <item value="bubble" />
+      <item value="Consumer" />
+      <item value="divide" />
+      <item value="is Not Blank" />
+      <item value="register" />
+      <item value="预计总收益" />
+      <item value="use Generated Keys" />
+      <item value="Invoke the handler method with the given argument values." />
+      <item value="org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Cannot deserialize instance of `java.util.ArrayList` out of VALUE_STRING token; nested exception is com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot deserialize instance of `java.util.ArrayList` out of VALUE_STRING token" />
+      <item value="CARD DYNAMIC TODAY PUBLISHED" />
+      <item value="total Invitation Reward" />
+      <item value="发布动态" />
+      <item value="card Dynamic Page" />
+      <item value="customer" />
+      <item value="Consume Note" />
+      <item value="No Delivery" />
+      <item value="time Out No Delivery Order To Received" />
       <item value="扣除金额" />
       <item value="提现" />
       <item value="WITHDRAWAL" />
@@ -21,21 +51,11 @@
       <item value="Extract the SQL and fill the parameters into the SQL you only need copy the Mybatis log with prepare:xxx parameters:xxx, and click the right mouse to choose MybatisLogPlugin,then will popup a tooltip which is the sql that can be execute into mysql. If you have question or other idea,you can send email to me(1024557668@qq.com)" />
       <item value="NOT STATED" />
       <item value="org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'meeAccountController': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private com.mh.admin.service.SystemUserService com.mh.admin.controller.account.MeeAccountController.service; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'systemUserService' defined in file [E:\workspace-meechao\meehe-asp\meehe_manager\target\ROOT\WEB-INF\classes\com\mh\admin\service\SystemUserService.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.mh.admin.service.SystemUserService]: Constructor threw exception; nested exception is java.lang.ExceptionInInitializerError" />
-      <item value="Could not find acceptable representation" />
-      <item value="remarked" />
-      <item value="Constant expression required" />
-      <item value="/** * Describes the default value for the parameter. * &lt;p&gt; * If the parameter is annotated with JAX-RS's {@code @DefaultValue}, that value would * be used, but can be overridden by setting this property. */" />
-      <item value="/** * A brief description of the parameter. */" />
-      <item value="/** * The parameter name. * &lt;p&gt; * The name of the parameter will be derived from the field/method/parameter name, * however you can override it. * &lt;p&gt; * Path parameters must always be named as the path section they represent. */" />
-      <item value="segments" />
-      <item value="/** * Process the Web request and (optionally) delegate to the next {@code WebFilter} * through the given {@link GatewayFilterChain}. * @param exchange the current server exchange * @param chain provides a way to delegate to the next filter * @return {@code Mono&lt;Void&gt;} to indicate when request processing is complete */" />
-      <item value="Lombok Requires Annotation Processing: Do you want to enable annotation processors?" />
-      <item value="/** * To be used by custom operators: invokes assembly {@link Hooks} pointcut given a * {@link Mono}, potentially returning a new {@link Mono}. This is for example useful * to activate cross-cutting concerns at assembly time, eg. a generalized * {@link #checkpoint()}. * * @param &lt;T&gt; the value type * @param source the source to apply assembly hooks onto * * @return the source, potentially wrapped with assembly time cross-cutting behavior */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="24" />
-        <entry key="ENGLISH" value="24" />
+        <entry key="CHINESE" value="52" />
+        <entry key="ENGLISH" value="52" />
       </map>
     </option>
   </component>

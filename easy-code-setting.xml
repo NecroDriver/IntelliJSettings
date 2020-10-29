@@ -100,7 +100,7 @@
                     <option name="name" value="controller" />
                   </Template>
                   <Template>
-                    <option name="code" value="##引入mybatis支持&#10;$!mybatisSupport&#10;&#10;##设置保存名称与保存位置&#10;$!callback.setFileName($tool.append($!{tableInfo.name}, &quot;Dao.xml&quot;))&#10;$!callback.setSavePath($tool.append($modulePath, &quot;/src/main/resources/mapper&quot;))&#10;&#10;##拿到主键&#10;#if(!$tableInfo.pkColumn.isEmpty())&#10;    #set($pk = $tableInfo.pkColumn.get(0))&#10;#end&#10;&#10;&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#10;&lt;!DOCTYPE mapper PUBLIC &quot;-//mybatis.org//DTD Mapper 3.0//EN&quot; &quot;http://mybatis.org/dtd/mybatis-3-mapper.dtd&quot;&gt;&#10;&lt;mapper namespace=&quot;$!{tableInfo.savePackageName}.dao.$!{tableInfo.name}Dao&quot;&gt;&#10;&#10;&lt;/mapper&gt;" />
+                    <option name="code" value="##引入mybatis支持&#10;$!mybatisSupport&#10;&#10;##设置保存名称与保存位置&#10;$!callback.setFileName($tool.append($!{tableInfo.name}, &quot;Dao.xml&quot;))&#10;$!callback.setSavePath($tool.append($modulePath, &quot;/src/main/resources/mapper&quot;))&#10;&#10;##拿到主键&#10;#if(!$tableInfo.pkColumn.isEmpty())&#10;    #set($pk = $tableInfo.pkColumn.get(0))&#10;#end&#10;&#10;&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#10;&lt;!DOCTYPE mapper PUBLIC &quot;-//mybatis.org//DTD Mapper 3.0//EN&quot; &quot;http://mybatis.org/dtd/mybatis-3-mapper.dtd&quot;&gt;&#10;&lt;mapper namespace=&quot;$!{tableInfo.savePackageName}.dao.$!{tableInfo.name}Dao&quot;&gt;&#10;    &#10;&lt;/mapper&gt;" />
                     <option name="name" value="mapper.xml" />
                   </Template>
                 </list>
