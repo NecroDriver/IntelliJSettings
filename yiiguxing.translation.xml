@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Dict" />
+      <item value="Classification Code Dict" />
+      <item value="form modulemodel type" />
       <item value="退款" />
       <item value="balance" />
       <item value="不足" />
@@ -48,14 +51,11 @@
       <item value="/** * The name of the sheet header. * * &lt;p&gt; * write: It automatically merges when you have more than one head * &lt;p&gt; * read: When you have multiple heads, take the first one * * @return The name of the sheet header */" />
       <item value="/** * Returns a function that always returns its input argument. * * @param &lt;T&gt; the type of the input and output objects to the function * @return a function that always returns its input argument */" />
       <item value="/** * Build excel the read * * @param inputStream * Input stream to read. * @param head * Annotate the class for configuration information. * @param readListener * Read listener. * @return Excel reader builder. */" />
-      <item value="Extract the SQL and fill the parameters into the SQL you only need copy the Mybatis log with prepare:xxx parameters:xxx, and click the right mouse to choose MybatisLogPlugin,then will popup a tooltip which is the sql that can be execute into mysql. If you have question or other idea,you can send email to me(1024557668@qq.com)" />
-      <item value="NOT STATED" />
-      <item value="org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'meeAccountController': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private com.mh.admin.service.SystemUserService com.mh.admin.controller.account.MeeAccountController.service; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'systemUserService' defined in file [E:\workspace-meechao\meehe-asp\meehe_manager\target\ROOT\WEB-INF\classes\com\mh\admin\service\SystemUserService.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.mh.admin.service.SystemUserService]: Constructor threw exception; nested exception is java.lang.ExceptionInInitializerError" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="52" />
-        <entry key="ENGLISH" value="52" />
+        <entry key="CHINESE" value="54" />
+        <entry key="ENGLISH" value="55" />
       </map>
     </option>
   </component>
