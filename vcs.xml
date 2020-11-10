@@ -50,9 +50,17 @@
           <option name="url" value="http://git.meechao.com/rhwj/rhwj-java-manager.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.5.5:10080/GUXIANGYUN/service-2.0.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.5.5:10080" />
+          <option name="userName" value="mafh" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\workspace-meechao" />
+    <option name="cloneParentDir" value="E:\workspace-guxiangyun" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
