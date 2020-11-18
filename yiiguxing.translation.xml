@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Not Blank" />
       <item value="Implied join paths are not assignable in update statements" />
       <item value="Unable to locate Attribute with the the given name [notebook_id] on this ManagedType" />
       <item value="Dict" />
@@ -22,7 +23,6 @@
       <item value="bubble" />
       <item value="Consumer" />
       <item value="divide" />
-      <item value="is Not Blank" />
       <item value="register" />
       <item value="预计总收益" />
       <item value="use Generated Keys" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="56" />
-        <entry key="ENGLISH" value="57" />
+        <entry key="CHINESE" value="57" />
+        <entry key="ENGLISH" value="58" />
       </map>
     </option>
   </component>
