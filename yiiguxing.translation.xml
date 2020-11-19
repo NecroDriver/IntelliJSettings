@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Division" />
+      <item value="is Division" />
       <item value="is Not Blank" />
       <item value="Implied join paths are not assignable in update statements" />
       <item value="Unable to locate Attribute with the the given name [notebook_id] on this ManagedType" />
@@ -49,13 +51,11 @@
       <item value="latest Invite Time" />
       <item value="HAVING" />
       <item value="Not registered via @EnableConfigurationProperties, marked as Spring component, or scanned via @ConfigurationPropertiesScan" />
-      <item value="/** * Returns a stream consisting of the elements of this stream, additionally * performing the provided action on each element as elements are consumed * from the resulting stream. * * &lt;p&gt;This is an &lt;a href=&quot;package-summary.html#StreamOps&quot;&gt;intermediate * operation&lt;/a&gt;. * * &lt;p&gt;For parallel stream pipelines, the action may be called at * whatever time and in whatever thread the element is made available by the * upstream operation. If the action modifies shared state, * it is responsible for providing the required synchronization. * * @apiNote This method exists mainly to support debugging, where you want * to see the elements as they flow past a certain point in a pipeline: * &lt;pre&gt;{@code * Stream.of(&quot;one&quot;, &quot;two&quot;, &quot;three&quot;, &quot;four&quot;) * .filter(e -&gt; e.length() &gt; 3) * .peek(e -&gt; System.out.println(&quot;Filtered value: &quot; + e)) * .map(String::toUpperCase) * .peek(e -&gt; System.out.println(&quot;Mapped value: &quot; + e)) * .collect(Collectors.toList()); * }&lt;/pre&gt; * * &lt;p&gt;In cases where the stream implementation is able to optimize away the * production of some or all the elements (such as with short-circuiting * operations like {@code findFirst}, or in the example described in * {@link #count}), the action will not be invoked for those elements. * * @param action a &lt;a href=&quot;package-summary.html#NonInterference&quot;&gt; * non-interfering&lt;/a&gt; action to perform on the elements as * they are consumed from the stream * @return the new stream */" />
-      <item value="/** * The name of the sheet header. * * &lt;p&gt; * write: It automatically merges when you have more than one head * &lt;p&gt; * read: When you have multiple heads, take the first one * * @return The name of the sheet header */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="57" />
-        <entry key="ENGLISH" value="58" />
+        <entry key="CHINESE" value="59" />
+        <entry key="ENGLISH" value="60" />
       </map>
     </option>
   </component>
