@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="management" />
+      <item value="maintenance" />
       <item value="bug Fix" />
       <item value="Division" />
       <item value="is Division" />
@@ -49,13 +51,11 @@
       <item value="Update Auth Filter" />
       <item value="验证" />
       <item value="auth" />
-      <item value="latest Invite Time" />
-      <item value="HAVING" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="60" />
+        <entry key="CHINESE" value="61" />
+        <entry key="ENGLISH" value="62" />
       </map>
     </option>
   </component>
