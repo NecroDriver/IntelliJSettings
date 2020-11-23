@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="scope" />
+      <item value="slot" />
+      <item value="slot-scope" />
       <item value="management" />
       <item value="maintenance" />
       <item value="bug Fix" />
@@ -48,14 +51,11 @@
       <item value="版本号" />
       <item value="/** * Set the HTTP status code of the response. * @param status the HTTP status as an {@link HttpStatus} enum value * @return {@code false} if the status code has not been set because the HTTP response * is already committed, {@code true} if it has been set correctly. */" />
       <item value="Update Verify Filter" />
-      <item value="Update Auth Filter" />
-      <item value="验证" />
-      <item value="auth" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="61" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="CHINESE" value="64" />
+        <entry key="ENGLISH" value="65" />
       </map>
     </option>
   </component>
