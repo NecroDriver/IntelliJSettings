@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="whether Video" />
       <item value="check Exists" />
       <item value="check Exist" />
       <item value="layered Enabled" />
@@ -50,12 +51,11 @@
       <item value="扣除金额" />
       <item value="提现" />
       <item value="WITHDRAWAL" />
-      <item value="split List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="67" />
-        <entry key="ENGLISH" value="68" />
+        <entry key="CHINESE" value="68" />
+        <entry key="ENGLISH" value="69" />
       </map>
     </option>
   </component>
