@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="check Exists" />
+      <item value="check Exist" />
       <item value="layered Enabled" />
       <item value="scope" />
       <item value="slot" />
@@ -49,13 +51,11 @@
       <item value="提现" />
       <item value="WITHDRAWAL" />
       <item value="split List" />
-      <item value="版本号" />
-      <item value="/** * Set the HTTP status code of the response. * @param status the HTTP status as an {@link HttpStatus} enum value * @return {@code false} if the status code has not been set because the HTTP response * is already committed, {@code true} if it has been set correctly. */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="65" />
-        <entry key="ENGLISH" value="66" />
+        <entry key="CHINESE" value="67" />
+        <entry key="ENGLISH" value="68" />
       </map>
     </option>
   </component>
