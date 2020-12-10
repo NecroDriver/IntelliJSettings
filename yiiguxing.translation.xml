@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="be Audit Member" />
       <item value="whether Video" />
       <item value="check Exists" />
       <item value="check Exist" />
@@ -50,12 +51,11 @@
       <item value="time Out No Delivery Order To Received" />
       <item value="扣除金额" />
       <item value="提现" />
-      <item value="WITHDRAWAL" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="68" />
-        <entry key="ENGLISH" value="69" />
+        <entry key="CHINESE" value="69" />
+        <entry key="ENGLISH" value="70" />
       </map>
     </option>
   </component>
