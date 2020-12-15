@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="abort" />
       <item value="java.lang.IllegalStateException: org.hibernate.TransientPropertyValueException: object references an unsaved transient instance - save the transient instance before flushing : com.yun.education.resourcelabel.domain.model.LearnResourceSharedLabelRefsSort.learnResource -&gt; com.yun.education.resource.domain.model.LearnResource" />
       <item value="learnt" />
       <item value="be Audit Member" />
@@ -50,12 +51,12 @@
       <item value="customer" />
       <item value="Consume Note" />
       <item value="No Delivery" />
-      <item value="time Out No Delivery Order To Received" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="71" />
+        <entry key="CHINESE" value="72" />
         <entry key="ENGLISH" value="72" />
+        <entry key="NORWEGIAN" value="1" />
       </map>
     </option>
   </component>
