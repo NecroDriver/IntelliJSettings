@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="layered Enabled" />
       <item value="abort" />
       <item value="java.lang.IllegalStateException: org.hibernate.TransientPropertyValueException: object references an unsaved transient instance - save the transient instance before flushing : com.yun.education.resourcelabel.domain.model.LearnResourceSharedLabelRefsSort.learnResource -&gt; com.yun.education.resource.domain.model.LearnResource" />
       <item value="learnt" />
@@ -8,7 +9,6 @@
       <item value="whether Video" />
       <item value="check Exists" />
       <item value="check Exist" />
-      <item value="layered Enabled" />
       <item value="scope" />
       <item value="slot" />
       <item value="slot-scope" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="72" />
-        <entry key="ENGLISH" value="72" />
+        <entry key="ENGLISH" value="73" />
         <entry key="NORWEGIAN" value="1" />
       </map>
     </option>
