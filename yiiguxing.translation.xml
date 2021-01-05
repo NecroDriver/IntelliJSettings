@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="现代学徒" />
+      <item value="新型学徒" />
+      <item value="校本培训" />
+      <item value="企业培训" />
+      <item value="professional Foundation" />
+      <item value="专业基础" />
+      <item value="公共基础" />
+      <item value="public Foundation" />
+      <item value="扩展课程" />
+      <item value="计划课程" />
+      <item value="artificial Intelligence" />
       <item value="Audit Tea" />
       <item value="find Audit Tea Ids" />
       <item value="旁听" />
@@ -40,22 +51,11 @@
       <item value="consumer Info" />
       <item value="Some problems were encountered while building the effective model for com.meechao:ronghe:jar:1.0.0-SNAPSHOT 'dependencyManagement.dependencies.dependency.(groupId:artifactId:type:classifier)' must be unique: org.projectlombok:lombok:jar -&gt; version (?) vs ${lombok.version} @ com.meechao.common:common:2.0.0, C:\Users\lemon\.m2\repository\com\meechao\common\common\2.0.0\common-2.0.0.pom, line 225, column 25 It is highly recommended to fix these problems because they threaten the stability of your build. For this reason, future Maven versions might no longer support building such malformed projects." />
       <item value="LOGIN FORBIDDEN" />
-      <item value="TOO MUCH TIMES CAPTCHA" />
-      <item value="TOO MUCH TIME CAPTCHA" />
-      <item value="TOO MUCH CAPTCHA" />
-      <item value="CAPTCHA" />
-      <item value="bubble" />
-      <item value="Consumer" />
-      <item value="divide" />
-      <item value="register" />
-      <item value="预计总收益" />
-      <item value="use Generated Keys" />
-      <item value="Invoke the handler method with the given argument values." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="79" />
-        <entry key="ENGLISH" value="80" />
+        <entry key="CHINESE" value="90" />
+        <entry key="ENGLISH" value="90" />
         <entry key="NORWEGIAN" value="1" />
       </map>
     </option>
