@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="guest Forbidden Section List" />
       <item value="superintendent" />
       <item value="督教督学" />
       <item value="on Campus Dedicated" />
@@ -50,12 +51,11 @@
       <item value="balance" />
       <item value="不足" />
       <item value="账户余额不足" />
-      <item value="Integral" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="92" />
-        <entry key="ENGLISH" value="93" />
+        <entry key="CHINESE" value="93" />
+        <entry key="ENGLISH" value="94" />
         <entry key="NORWEGIAN" value="1" />
       </map>
     </option>
