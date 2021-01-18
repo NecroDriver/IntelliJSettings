@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="拼接" />
       <item value="Possible iteration over unexpected (custom / inherited) members, probably missing hasOwnProperty check" />
       <item value="guest Forbidden Section List" />
       <item value="superintendent" />
@@ -50,12 +51,11 @@
       <item value="form modulemodel type" />
       <item value="退款" />
       <item value="balance" />
-      <item value="不足" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="94" />
-        <entry key="ENGLISH" value="94" />
+        <entry key="CHINESE" value="95" />
+        <entry key="ENGLISH" value="95" />
         <entry key="NORWEGIAN" value="1" />
       </map>
     </option>
