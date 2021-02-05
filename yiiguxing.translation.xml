@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="合作单位" />
+      <item value="单位" />
       <item value="breadcrumb" />
       <item value="adapter" />
       <item value="适配" />
@@ -49,13 +51,11 @@
       <item value="management" />
       <item value="maintenance" />
       <item value="bug Fix" />
-      <item value="Division" />
-      <item value="is Division" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="98" />
-        <entry key="ENGLISH" value="99" />
+        <entry key="CHINESE" value="101" />
+        <entry key="ENGLISH" value="101" />
         <entry key="NORWEGIAN" value="1" />
       </map>
     </option>
