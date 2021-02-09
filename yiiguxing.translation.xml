@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="已登录" />
+      <item value="is Logined" />
       <item value="合作单位" />
       <item value="单位" />
       <item value="breadcrumb" />
@@ -49,13 +51,11 @@
       <item value="slot" />
       <item value="slot-scope" />
       <item value="management" />
-      <item value="maintenance" />
-      <item value="bug Fix" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="101" />
-        <entry key="ENGLISH" value="101" />
+        <entry key="CHINESE" value="102" />
+        <entry key="ENGLISH" value="102" />
         <entry key="NORWEGIAN" value="1" />
       </map>
     </option>
