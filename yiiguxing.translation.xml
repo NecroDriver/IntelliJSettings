@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="course Is Sticky Post" />
       <item value="已登录" />
       <item value="is Logined" />
       <item value="合作单位" />
@@ -50,12 +51,11 @@
       <item value="scope" />
       <item value="slot" />
       <item value="slot-scope" />
-      <item value="management" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="102" />
-        <entry key="ENGLISH" value="102" />
+        <entry key="ENGLISH" value="103" />
         <entry key="NORWEGIAN" value="1" />
       </map>
     </option>
