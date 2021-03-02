@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Possible iteration over unexpected (custom inherited) members, probably missing hasOwnProperty check" />
       <item value="发布中" />
       <item value="备课引用" />
       <item value="course Is Sticky Post" />
@@ -50,7 +51,6 @@
       <item value="whether Video" />
       <item value="check Exists" />
       <item value="check Exist" />
-      <item value="scope" />
     </histories>
     <option name="languageScores">
       <map>
