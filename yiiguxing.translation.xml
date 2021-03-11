@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" Note that the development build is not optimized.&#10;  To create a production build, run npm run build." />
       <item value="变量" />
       <item value="动态" />
       <item value="Possible iteration over unexpected (custom inherited) members, probably missing hasOwnProperty check" />
@@ -50,7 +51,6 @@
       <item value="java.lang.IllegalStateException: org.hibernate.TransientPropertyValueException: object references an unsaved transient instance - save the transient instance before flushing : com.yun.education.resourcelabel.domain.model.LearnResourceSharedLabelRefsSort.learnResource -&gt; com.yun.education.resource.domain.model.LearnResource" />
       <item value="learnt" />
       <item value="be Audit Member" />
-      <item value="whether Video" />
     </histories>
     <option name="languageScores">
       <map>
