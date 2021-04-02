@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Failover" />
+      <item value="get Failover File" />
       <item value="enroll" />
       <item value="教学数量" />
       <item value="member Overload" />
@@ -49,13 +51,11 @@
       <item value="公共基础" />
       <item value="public Foundation" />
       <item value="扩展课程" />
-      <item value="计划课程" />
-      <item value="artificial Intelligence" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="118" />
-        <entry key="ENGLISH" value="119" />
+        <entry key="CHINESE" value="120" />
+        <entry key="ENGLISH" value="121" />
         <entry key="NORWEGIAN" value="1" />
       </map>
     </option>
