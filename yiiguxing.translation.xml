@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="obtain" />
       <item value="Failover" />
       <item value="get Failover File" />
       <item value="enroll" />
@@ -50,17 +51,16 @@
       <item value="专业基础" />
       <item value="公共基础" />
       <item value="public Foundation" />
-      <item value="扩展课程" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="120" />
-        <entry key="ENGLISH" value="121" />
+        <entry key="CHINESE" value="121" />
+        <entry key="ENGLISH" value="122" />
         <entry key="NORWEGIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1617170856710" />
+    <option name="lastTrimTime" value="1617779762048" />
   </component>
 </application>
