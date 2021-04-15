@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="infrastructure" />
+      <item value="strategy" />
       <item value="shiro" />
       <item value="Platform App Dto" />
       <item value="Join all arguments together and normalize the resulting path. Arguments must be strings. In v0.8, non-string arguments were silently ignored. In v0.10 and up, an exception is thrown. @param paths paths to join." />
@@ -49,13 +51,11 @@
       <item value="督教督学" />
       <item value="on Campus Dedicated" />
       <item value="校内专用" />
-      <item value="现代学徒" />
-      <item value="新型学徒" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="127" />
-        <entry key="ENGLISH" value="127" />
+        <entry key="CHINESE" value="128" />
+        <entry key="ENGLISH" value="129" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="JAPANESE" value="1" />
       </map>
