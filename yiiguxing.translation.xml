@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="without" />
+      <item value="constants" />
       <item value="A different object with the same identifier value was already associated with the session" />
       <item value="infrastructure" />
       <item value="strategy" />
@@ -49,13 +51,11 @@
       <item value="Possible iteration over unexpected (custom / inherited) members, probably missing hasOwnProperty check" />
       <item value="guest Forbidden Section List" />
       <item value="superintendent" />
-      <item value="督教督学" />
-      <item value="on Campus Dedicated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="129" />
-        <entry key="ENGLISH" value="130" />
+        <entry key="CHINESE" value="131" />
+        <entry key="ENGLISH" value="132" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="JAPANESE" value="1" />
       </map>
