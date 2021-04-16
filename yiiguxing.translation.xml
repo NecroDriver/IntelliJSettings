@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="标识" />
       <item value="顺序" />
       <item value="payload" />
       <item value="User Hbm" />
@@ -50,12 +51,11 @@
       <item value="draggable" />
       <item value="精品微课" />
       <item value="moral Edu Label Refs" />
-      <item value="拼接" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="135" />
-        <entry key="ENGLISH" value="135" />
+        <entry key="CHINESE" value="136" />
+        <entry key="ENGLISH" value="136" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="JAPANESE" value="1" />
       </map>
