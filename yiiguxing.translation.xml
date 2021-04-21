@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="register Sync Node" />
+      <item value="regist" />
       <item value="指定" />
       <item value="特定" />
       <item value="备份" />
@@ -36,7 +38,6 @@
       <item value="member Overload" />
       <item value="过载" />
       <item value="register" />
-      <item value="regist" />
       <item value="是否可报名" />
       <item value="美育" />
       <item value="体育" />
@@ -50,12 +51,11 @@
       <item value="Possible iteration over unexpected (custom inherited) members, probably missing hasOwnProperty check" />
       <item value="发布中" />
       <item value="备课引用" />
-      <item value="course Is Sticky Post" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="145" />
-        <entry key="ENGLISH" value="145" />
+        <entry key="CHINESE" value="146" />
+        <entry key="ENGLISH" value="147" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="JAPANESE" value="1" />
       </map>
