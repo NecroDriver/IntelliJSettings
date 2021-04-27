@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Rejected" />
       <item value="Required type: ExceptionSupplier &lt;T&gt; Provided: SyncNodeDto reason: no instance(s) of type variable(s) T exist so that SyncNodeDto conforms to ExceptionSupplier&lt;T&gt;" />
       <item value="翻几倍" />
       <item value="翻倍" />
@@ -50,12 +51,11 @@
       <item value="教学数量" />
       <item value="member Overload" />
       <item value="过载" />
-      <item value="register" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="155" />
-        <entry key="ENGLISH" value="155" />
+        <entry key="ENGLISH" value="156" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
