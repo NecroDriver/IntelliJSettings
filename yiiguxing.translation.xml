@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="on Completion" />
       <item value="Raw use of parameterized class 'ISyncNode'" />
       <item value="Data Synced Push Text" />
       <item value="validate Blank Params" />
@@ -50,12 +51,11 @@
       <item value="obtain" />
       <item value="Failover" />
       <item value="get Failover File" />
-      <item value="enroll" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="157" />
-        <entry key="ENGLISH" value="158" />
+        <entry key="CHINESE" value="158" />
+        <entry key="ENGLISH" value="159" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
