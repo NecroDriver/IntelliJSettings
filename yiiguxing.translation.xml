@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="重置" />
+      <item value="reset" />
+      <item value="检测链接" />
       <item value="enforce" />
       <item value="是否强制执行" />
       <item value="强制执行" />
@@ -48,9 +51,6 @@
       <item value="shiro" />
       <item value="Platform App Dto" />
       <item value="Join all arguments together and normalize the resulting path. Arguments must be strings. In v0.8, non-string arguments were silently ignored. In v0.10 and up, an exception is thrown. @param paths paths to join." />
-      <item value="The right-most parameter is considered {to}. Other parameters are considered an array of {from}. Starting from leftmost {from} parameter, resolves {to} to an absolute path. If {to} isn't already absolute, {from} arguments are prepended in right to left order, until an absolute path is found. If after using all {from} paths still no absolute path is found, the current working directory is used as well. The resulting path is normalized, and trailing slashes are removed unless the path gets resolved to the root directory. @param pathSegments string paths to join. Non-string arguments are ignored." />
-      <item value="vendor Impl" />
-      <item value="find Latest Name" />
     </histories>
     <option name="languageScores">
       <map>
