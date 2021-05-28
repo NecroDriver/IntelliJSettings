@@ -98,9 +98,13 @@
           <option name="url" value="http://git.chometown.com/GUXIANGYUN/service-2.0.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.chometown.com/xuaihua/spring-cloud-alibaba-test" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\workspace-guxiangyun\temp" />
+    <option name="cloneParentDir" value="E:\workspace-guxiangyun" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
