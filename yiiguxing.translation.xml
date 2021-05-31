@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="bucket" />
       <item value="specifies the destination organization for writes" />
       <item value="Creates a new instance of the class represented by this {@code Class} object. The class is instantiated as if by a {@code new} expression with an empty argument list. The class is initialized if it has not already been initialized. @deprecated This method propagates any exception thrown by the nullary constructor, including a checked exception. Use of this method effectively bypasses the compile-time exception checking that would otherwise be performed by the compiler. The {@link java.lang.reflect.ConstructornewInstance(java.lang.Object...) Constructor.newInstance} method avoids this problem by wrapping any exception thrown by the constructor in a (checked) {@link java.lang.reflect.InvocationTargetException}. &lt;p&gt;The call &lt;pre&gt;{@code clazz.newInstance() }&lt;pre&gt; can be replaced by &lt;pre&gt;{@code clazz.getDeclaredConstructor().newInstance() }&lt;pre&gt; The latter sequence of calls is inferred to be able to throw the additional exception types {@link InvocationTargetException} and {@link NoSuchMethodException}. Both of these exception types are subclasses of {@link ReflectiveOperationException}. @return a newly allocated instance of the class represented by this object. @throws IllegalAccessException if the class or its nullary constructor is not accessible. @throws InstantiationException if this {@code Class} represents an abstract class, an interface, an array class, a primitive type, or void; or if the class has no nullary constructor; or if the instantiation fails for some other reason. @throws ExceptionInInitializerError if the initialization provoked by this method fails. @throws SecurityException If a security manager, &lt;i&gt;s&lt;i&gt;, is present and the caller's class loader is not the same as or an ancestor of the class loader for the current class and invocation of {@link SecurityManagercheckPackageAccess s.checkPackageAccess()} denies access to the package of this class." />
       <item value="Temporal" />
@@ -50,7 +51,6 @@
       <item value="匹配" />
       <item value="Data Synced Dto" />
       <item value="Sync Push Request" />
-      <item value="标识" />
     </histories>
     <option name="languageScores">
       <map>
