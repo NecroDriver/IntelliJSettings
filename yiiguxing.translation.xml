@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="collective Labour Detail Preview" />
       <item value="查重通过标记" />
       <item value="是否查重通过标记" />
       <item value="repeat Check Pass Flag" />
@@ -50,7 +51,6 @@
       <item value="Accepts a function that extracts an {@code int} sort key from a type {@code T}, and returns a {@code Comparator&lt;T&gt;} that compares by that sort key. &lt;p&gt;The returned comparator is serializable if the specified function is also serializable. @param &lt;T&gt; the type of element to be compared @param keyExtractor the function used to extract the integer sort key @return a comparator that compares by an extracted key @see comparing(Function) @throws NullPointerException if the argument is null @since 1.8" />
       <item value="salver" />
       <item value="register Sync Node" />
-      <item value="regist" />
     </histories>
     <option name="languageScores">
       <map>
