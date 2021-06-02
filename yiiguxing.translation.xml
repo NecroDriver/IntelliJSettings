@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="查重通过标记" />
+      <item value="是否查重通过标记" />
+      <item value="repeat Check Pass Flag" />
+      <item value="查重通过" />
+      <item value="repeat Pass Flag" />
+      <item value="is Repeat" />
+      <item value="是否重复" />
+      <item value="相似度" />
       <item value="repair Sim Hash" />
       <item value="predicate" />
       <item value="Post onboarding request, to setup initial user, org and bucket. @param url the url to connect to the InfluxDB @param username the name of an user @param password the password to connect as an user @param org the name of an organization @param bucket the name of a bucket @return Created default user, bucket, org." />
@@ -43,14 +51,6 @@
       <item value="salver" />
       <item value="register Sync Node" />
       <item value="regist" />
-      <item value="指定" />
-      <item value="特定" />
-      <item value="备份" />
-      <item value="备" />
-      <item value="主从" />
-      <item value="No transactional EntityManager available" />
-      <item value="Service" />
-      <item value="Private field 'value' is assigned but never accessed" />
     </histories>
     <option name="languageScores">
       <map>
