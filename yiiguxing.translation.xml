@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="predicate" />
       <item value="labor" />
       <item value="labour" />
       <item value="duplicate Check" />
@@ -14,7 +15,6 @@
       <item value="是否重复" />
       <item value="相似度" />
       <item value="repair Sim Hash" />
-      <item value="predicate" />
       <item value="Post onboarding request, to setup initial user, org and bucket. @param url the url to connect to the InfluxDB @param username the name of an user @param password the password to connect as an user @param org the name of an organization @param bucket the name of a bucket @return Created default user, bucket, org." />
       <item value="Write Precision" />
       <item value="bucket" />
