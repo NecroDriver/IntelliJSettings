@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="time Period" />
       <item value="互相批阅数" />
       <item value="学习时长" />
       <item value="avatar" />
@@ -50,7 +51,6 @@
       <item value="倍率" />
       <item value="间隔倍率" />
       <item value="emitter" />
-      <item value="heartbeat" />
     </histories>
     <option name="languageScores">
       <map>
