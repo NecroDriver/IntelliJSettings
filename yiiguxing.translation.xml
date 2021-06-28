@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="One or more variables that together maintain an initially zero {@code long} sum. When updates (method {@link add}) are contended across threads, the set of variables may grow dynamically to reduce contention. Method {@link sum} (or, equivalently, {@link longValue}) returns the current total combined across the variables maintaining the sum. &lt;p&gt;This class is usually preferable to {@link AtomicLong} when multiple threads update a common sum that is used for purposes such as collecting statistics, not for fine-grained synchronization control. Under low update contention, the two classes have similar characteristics. But under high contention, expected throughput of this class is significantly higher, at the expense of higher space consumption. &lt;p&gt;LongAdders can be used with a {@link java.util.concurrent.ConcurrentHashMap} to maintain a scalable frequency map (a form of histogram or multiset). For example, to add a count to a {@code ConcurrentHashMap&lt;String,LongAdder&gt; freqs}, initializing if not already present, you can use {@code freqs.computeIfAbsent(k -&gt; new LongAdder()).increment();} &lt;p&gt;This class extends {@link Number}, but does &lt;em&gt;not&lt;em&gt; define methods such as {@code equals}, {@code hashCode} and {@code compareTo} because instances are expected to be mutated, and so are not useful as collection keys. @since 1.8 @author Doug Lea" />
+      <item value="Bucket" />
+      <item value="Count Down Latch" />
       <item value="Rolling Number" />
       <item value="start Learn" />
       <item value="同步请求次数" />
@@ -48,9 +51,6 @@
       <item value="time Enable" />
       <item value="Returns whether any elements of this stream match the provided predicate. May not evaluate the predicate on all elements if not necessary for determining the result. If the stream is empty then {@code false} is returned and the predicate is not evaluated. &lt;p&gt;This is a &lt;a href=&quot;package-summary.htmlStreamOps&quot;&gt;short-circuiting terminal operation&lt;a&gt;. @apiNote This method evaluates the &lt;em&gt;existential quantification&lt;em&gt; of the predicate over the elements of the stream (for some x P(x)). @param predicate a &lt;a href=&quot;package-summary.htmlNonInterference&quot;&gt;non-interfering&lt;a&gt;, &lt;a href=&quot;package-summary.htmlStatelessness&quot;&gt;stateless&lt;a&gt; predicate to apply to elements of this stream @return {@code true} if any elements of the stream match the provided predicate, otherwise {@code false}" />
       <item value="any Match" />
-      <item value="重置" />
-      <item value="reset" />
-      <item value="检测链接" />
     </histories>
     <option name="languageScores">
       <map>
