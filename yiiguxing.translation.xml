@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="start Learn" />
       <item value="同步请求次数" />
       <item value="duration" />
       <item value="spent Time" />
@@ -50,7 +51,6 @@
       <item value="reset" />
       <item value="检测链接" />
       <item value="enforce" />
-      <item value="是否强制执行" />
     </histories>
     <option name="languageScores">
       <map>
