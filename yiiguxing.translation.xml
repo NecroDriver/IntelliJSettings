@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Rolling Number" />
       <item value="start Learn" />
       <item value="同步请求次数" />
       <item value="duration" />
@@ -50,7 +51,6 @@
       <item value="重置" />
       <item value="reset" />
       <item value="检测链接" />
-      <item value="enforce" />
     </histories>
     <option name="languageScores">
       <map>
@@ -64,6 +64,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1624244618666" />
+    <option name="lastTrimTime" value="1624865002058" />
   </component>
 </application>
