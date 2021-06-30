@@ -102,6 +102,10 @@
           <option name="url" value="http://git.chometown.com/xuaihua/spring-cloud-alibaba-test" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.chometown.com/GUXIANGYUN/docs.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\workspace-guxiangyun" />
