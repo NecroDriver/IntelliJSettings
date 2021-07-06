@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="已获得的积分" />
       <item value="channel" />
       <item value="filter" />
       <item value="qps Exclude Url" />
@@ -50,7 +51,6 @@
       <item value="是否重复" />
       <item value="相似度" />
       <item value="repair Sim Hash" />
-      <item value="Post onboarding request, to setup initial user, org and bucket. @param url the url to connect to the InfluxDB @param username the name of an user @param password the password to connect as an user @param org the name of an organization @param bucket the name of a bucket @return Created default user, bucket, org." />
     </histories>
     <option name="languageScores">
       <map>
@@ -64,6 +64,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1624865002058" />
+    <option name="lastTrimTime" value="1625537307333" />
   </component>
 </application>
