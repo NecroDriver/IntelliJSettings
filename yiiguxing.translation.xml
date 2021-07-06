@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Sum With Delta" />
       <item value="已获得的积分" />
       <item value="channel" />
       <item value="filter" />
@@ -50,7 +51,6 @@
       <item value="is Repeat" />
       <item value="是否重复" />
       <item value="相似度" />
-      <item value="repair Sim Hash" />
     </histories>
     <option name="languageScores">
       <map>
