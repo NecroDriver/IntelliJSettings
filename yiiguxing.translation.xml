@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="adapte Value" />
+      <item value="adapter Value" />
+      <item value="labor Work" />
       <item value="sender Preview File" />
       <item value="Points Channel" />
       <item value="Channel" />
@@ -48,9 +51,6 @@
       <item value="collective Labour Detail Preview" />
       <item value="查重通过标记" />
       <item value="是否查重通过标记" />
-      <item value="repeat Check Pass Flag" />
-      <item value="查重通过" />
-      <item value="repeat Pass Flag" />
     </histories>
     <option name="languageScores">
       <map>
