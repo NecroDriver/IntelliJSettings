@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="has Sifting Panel Value" />
+      <item value="keywords" />
       <item value="folder" />
       <item value="Exporter" />
       <item value="Dfs Exporter Task" />
@@ -49,8 +51,6 @@
       <item value="avatar" />
       <item value="yield" />
       <item value="predicate" />
-      <item value="labor" />
-      <item value="labour" />
     </histories>
     <option name="languageScores">
       <map>
@@ -64,6 +64,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1625537307333" />
+    <option name="lastTrimTime" value="1626077312088" />
   </component>
 </application>
