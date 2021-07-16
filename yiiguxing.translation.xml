@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="record" />
       <item value="builder" />
       <item value="has Sifting Panel Value" />
       <item value="keywords" />
@@ -50,7 +51,6 @@
       <item value="互相批阅数" />
       <item value="学习时长" />
       <item value="avatar" />
-      <item value="yield" />
     </histories>
     <option name="languageScores">
       <map>
