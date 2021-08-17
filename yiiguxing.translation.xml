@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Instantiation Exception" />
       <item value="剩余时间" />
       <item value="剩余" />
       <item value="leaf Time" />
@@ -54,7 +55,6 @@
       <item value="channel" />
       <item value="filter" />
       <item value="qps Exclude Url" />
-      <item value="minus Seconds" />
     </histories>
     <option name="languageScores">
       <map>
