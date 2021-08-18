@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="dispose" />
       <item value="活跃时间段" />
       <item value="Instantiation Exception" />
       <item value="剩余时间" />
@@ -54,7 +55,6 @@
       <item value="set Sum With Delta" />
       <item value="已获得的积分" />
       <item value="channel" />
-      <item value="filter" />
     </histories>
     <option name="languageScores">
       <map>
