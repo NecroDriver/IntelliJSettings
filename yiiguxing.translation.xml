@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="半径" />
       <item value="Draws a sequence of connected lines defined by arrays of &lt;i&gt;x&lt;i&gt; and &lt;i&gt;y&lt;i&gt; coordinates. Each pair of (&lt;i&gt;x&lt;i&gt;,&amp;nbsp;&lt;i&gt;y&lt;i&gt;) coordinates defines a point. The figure is not closed if the first point differs from the last point. @param xPoints an array of &lt;i&gt;x&lt;i&gt; points @param yPoints an array of &lt;i&gt;y&lt;i&gt; points @param nPoints the total number of points @see java.awt.GraphicsdrawPolygon(int[], int[], int) @since 1.1" />
       <item value="dispose" />
       <item value="活跃时间段" />
@@ -54,7 +55,6 @@
       <item value="Points Channel" />
       <item value="Channel" />
       <item value="set Sum With Delta" />
-      <item value="已获得的积分" />
     </histories>
     <option name="languageScores">
       <map>
