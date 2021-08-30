@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="祖父级任务名称" />
       <item value="my Achievement Repository" />
       <item value="证书颁发" />
       <item value="学期" />
@@ -54,7 +55,6 @@
       <item value="has Sifting Panel Value" />
       <item value="keywords" />
       <item value="folder" />
-      <item value="Exporter" />
     </histories>
     <option name="languageScores">
       <map>
@@ -68,6 +68,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1629711969927" />
+    <option name="lastTrimTime" value="1630293421116" />
   </component>
 </application>
