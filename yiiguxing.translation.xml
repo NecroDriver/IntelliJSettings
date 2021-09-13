@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="rang" />
       <item value="补充" />
       <item value="补充部分详细数据" />
       <item value="total Effective Hour" />
@@ -54,7 +55,6 @@
       <item value="Regist" />
       <item value="async" />
       <item value="积分获取" />
-      <item value="context Id" />
     </histories>
     <option name="languageScores">
       <map>
@@ -68,6 +68,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1630293421116" />
+    <option name="lastTrimTime" value="1631502173063" />
   </component>
 </application>
