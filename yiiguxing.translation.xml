@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="柱状图" />
       <item value="在线考试" />
       <item value="随堂测验" />
       <item value="学情检测" />
@@ -54,7 +55,6 @@
       <item value="Labor Work" />
       <item value="Laborwork" />
       <item value="rebuild" />
-      <item value="can Regist" />
     </histories>
     <option name="languageScores">
       <map>
