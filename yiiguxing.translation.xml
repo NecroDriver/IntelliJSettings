@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="prefix" />
       <item value="criteria Query" />
       <item value="Create an expression for substring extraction. Extracts a substring starting at the specified position through to end of the string. First position is 1." />
       <item value="Create an expression for substring extraction. Extracts a substring starting at the specified position through to end of the string. First position is 1. @param x string expression @param from start position expression @return expression corresponding to substring extraction" />
@@ -54,7 +55,6 @@
       <item value="labor work point" />
       <item value="学习积分启用" />
       <item value="学习积分开启" />
-      <item value="search All As Student" />
     </histories>
     <option name="languageScores">
       <map>
