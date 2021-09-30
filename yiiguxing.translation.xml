@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="学习过的" />
       <item value="Stu Learning Instance Summary" />
       <item value="Stu Learning Instance Summary 2" />
       <item value="edu stats stu learning instance summary 2" />
@@ -54,11 +55,10 @@
       <item value="allow Repeat" />
       <item value="mapping" />
       <item value="映射" />
-      <item value="mappe" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="163" />
+        <entry key="CHINESE" value="164" />
         <entry key="ENGLISH" value="164" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
