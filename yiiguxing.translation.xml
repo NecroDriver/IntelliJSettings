@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="update Yesterday Records" />
       <item value="revoke" />
       <item value="schedule At Fixed Rate" />
       <item value="schedule With Fixed Delay" />
@@ -54,12 +55,11 @@
       <item value="leaf Time" />
       <item value="leaft Time" />
       <item value="自主学习图表" />
-      <item value="自主学习" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="168" />
-        <entry key="ENGLISH" value="169" />
+        <entry key="CHINESE" value="169" />
+        <entry key="ENGLISH" value="170" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
