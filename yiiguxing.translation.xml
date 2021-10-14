@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Represents a supplier of results. &lt;p&gt;There is no requirement that a new or distinct result be returned each time the supplier is invoked. &lt;p&gt;This is a &lt;a href=&quot;package-summary.html&quot;&gt;functional interface&lt;a&gt; whose functional method is {@link get()}." />
+      <item value="Represents an operation that accepts a single input argument and returns no result. Unlike most other functional interfaces, {@code Consumer} is expected to operate via side-effects." />
+      <item value="Performs this operation on the given argument." />
+      <item value="accept" />
       <item value="is not eligible for getting processed by all BeanPostProcessors" />
       <item value="进度存储器" />
       <item value="CONTEXT HOLDER" />
@@ -51,15 +55,11 @@
       <item value="draw Org And Date At Right Bottom" />
       <item value="右下角" />
       <item value="Graphics Consts" />
-      <item value="半径" />
-      <item value="Draws a sequence of connected lines defined by arrays of &lt;i&gt;x&lt;i&gt; and &lt;i&gt;y&lt;i&gt; coordinates. Each pair of (&lt;i&gt;x&lt;i&gt;,&amp;nbsp;&lt;i&gt;y&lt;i&gt;) coordinates defines a point. The figure is not closed if the first point differs from the last point. @param xPoints an array of &lt;i&gt;x&lt;i&gt; points @param yPoints an array of &lt;i&gt;y&lt;i&gt; points @param nPoints the total number of points @see java.awt.GraphicsdrawPolygon(int[], int[], int) @since 1.1" />
-      <item value="dispose" />
-      <item value="活跃时间段" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="173" />
-        <entry key="ENGLISH" value="174" />
+        <entry key="CHINESE" value="177" />
+        <entry key="ENGLISH" value="178" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
