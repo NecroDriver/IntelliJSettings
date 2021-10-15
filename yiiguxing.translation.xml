@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="WRONGTYPE Operation against a key holding the wrong kind of value. channel:" />
       <item value="Represents a supplier of results. &lt;p&gt;There is no requirement that a new or distinct result be returned each time the supplier is invoked. &lt;p&gt;This is a &lt;a href=&quot;package-summary.html&quot;&gt;functional interface&lt;a&gt; whose functional method is {@link get()}." />
       <item value="Represents an operation that accepts a single input argument and returns no result. Unlike most other functional interfaces, {@code Consumer} is expected to operate via side-effects." />
       <item value="Performs this operation on the given argument." />
@@ -54,12 +55,11 @@
       <item value="Font Metrics" />
       <item value="draw Org And Date At Right Bottom" />
       <item value="右下角" />
-      <item value="Graphics Consts" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="177" />
-        <entry key="ENGLISH" value="178" />
+        <entry key="CHINESE" value="178" />
+        <entry key="ENGLISH" value="179" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
