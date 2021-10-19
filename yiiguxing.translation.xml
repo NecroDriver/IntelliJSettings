@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="memo" />
       <item value="generate Excel File" />
       <item value="generate File" />
       <item value="data List Supplier" />
@@ -54,12 +55,11 @@
       <item value="total Study Duration" />
       <item value="累计观看时长" />
       <item value="总资源时长" />
-      <item value="generate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="189" />
-        <entry key="ENGLISH" value="190" />
+        <entry key="CHINESE" value="190" />
+        <entry key="ENGLISH" value="191" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
