@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="delta" />
+      <item value="progress Steps" />
       <item value="memo" />
       <item value="generate Excel File" />
       <item value="generate File" />
@@ -53,13 +55,11 @@
       <item value="total Effective Hour" />
       <item value="累计有效时长" />
       <item value="total Study Duration" />
-      <item value="累计观看时长" />
-      <item value="总资源时长" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="190" />
-        <entry key="ENGLISH" value="191" />
+        <entry key="CHINESE" value="192" />
+        <entry key="ENGLISH" value="193" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
@@ -69,7 +69,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1634197092338" />
+    <option name="lastTrimTime" value="1634630124883" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
