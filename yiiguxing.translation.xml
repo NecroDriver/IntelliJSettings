@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Refuse Repeat" />
+      <item value="拒绝重复执行" />
       <item value="advice Date" />
       <item value="获取乐观锁" />
       <item value="获取锁" />
@@ -53,13 +55,11 @@
       <item value="Create an expression for substring extraction. Extracts a substring starting at the specified position through to end of the string. First position is 1. @param x string expression @param from start position expression @return expression corresponding to substring extraction" />
       <item value="柱状图" />
       <item value="在线考试" />
-      <item value="随堂测验" />
-      <item value="学情检测" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="197" />
-        <entry key="ENGLISH" value="198" />
+        <entry key="CHINESE" value="198" />
+        <entry key="ENGLISH" value="199" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
