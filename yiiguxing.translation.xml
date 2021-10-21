@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="advice Date" />
       <item value="获取乐观锁" />
       <item value="获取锁" />
       <item value="清空进度" />
@@ -54,12 +55,11 @@
       <item value="在线考试" />
       <item value="随堂测验" />
       <item value="学情检测" />
-      <item value="rang" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="197" />
-        <entry key="ENGLISH" value="197" />
+        <entry key="ENGLISH" value="198" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
