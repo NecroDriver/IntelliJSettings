@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="video Time Watch Sum Valid List" />
+      <item value="有效时长" />
       <item value="Refuse Repeat" />
       <item value="拒绝重复执行" />
       <item value="advice Date" />
@@ -53,13 +55,11 @@
       <item value="criteria Query" />
       <item value="Create an expression for substring extraction. Extracts a substring starting at the specified position through to end of the string. First position is 1." />
       <item value="Create an expression for substring extraction. Extracts a substring starting at the specified position through to end of the string. First position is 1. @param x string expression @param from start position expression @return expression corresponding to substring extraction" />
-      <item value="柱状图" />
-      <item value="在线考试" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="198" />
-        <entry key="ENGLISH" value="199" />
+        <entry key="CHINESE" value="199" />
+        <entry key="ENGLISH" value="200" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
@@ -69,7 +69,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1634630124883" />
+    <option name="lastTrimTime" value="1635144051414" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
