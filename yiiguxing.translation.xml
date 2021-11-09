@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="find Mind Mapping" />
       <item value="classifier Type" />
       <item value="素养" />
       <item value="precent" />
@@ -54,12 +55,11 @@
       <item value="update Yesterday Records" />
       <item value="revoke" />
       <item value="schedule At Fixed Rate" />
-      <item value="schedule With Fixed Delay" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="208" />
-        <entry key="ENGLISH" value="209" />
+        <entry key="CHINESE" value="209" />
+        <entry key="ENGLISH" value="210" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
