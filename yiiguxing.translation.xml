@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="get User List Of Click Up" />
       <item value="exclude User Ids" />
       <item value="find Mind Mapping" />
       <item value="classifier Type" />
@@ -54,12 +55,11 @@
       <item value="修复数据接口" />
       <item value="repaire Data" />
       <item value="update Yesterday Records" />
-      <item value="revoke" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="209" />
-        <entry key="ENGLISH" value="210" />
+        <entry key="CHINESE" value="210" />
+        <entry key="ENGLISH" value="211" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
