@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="exclude User Ids" />
       <item value="find Mind Mapping" />
       <item value="classifier Type" />
       <item value="素养" />
@@ -54,7 +55,6 @@
       <item value="repaire Data" />
       <item value="update Yesterday Records" />
       <item value="revoke" />
-      <item value="schedule At Fixed Rate" />
     </histories>
     <option name="languageScores">
       <map>
