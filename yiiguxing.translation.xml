@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="facade" />
       <item value="set Condition" />
       <item value="get Owner List Of Click Up" />
       <item value="get User List Of Click Up" />
@@ -54,12 +55,11 @@
       <item value="进度存储器" />
       <item value="CONTEXT HOLDER" />
       <item value="repair" />
-      <item value="修复数据接口" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="212" />
-        <entry key="ENGLISH" value="213" />
+        <entry key="CHINESE" value="213" />
+        <entry key="ENGLISH" value="214" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
