@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Model Scene" />
       <item value="facade" />
       <item value="set Condition" />
       <item value="get Owner List Of Click Up" />
@@ -54,7 +55,6 @@
       <item value="is not eligible for getting processed by all BeanPostProcessors" />
       <item value="进度存储器" />
       <item value="CONTEXT HOLDER" />
-      <item value="repair" />
     </histories>
     <option name="languageScores">
       <map>
