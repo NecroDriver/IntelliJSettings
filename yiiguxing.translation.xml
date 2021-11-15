@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="find Latest By Condition" />
       <item value="Model Scene" />
       <item value="facade" />
       <item value="set Condition" />
@@ -54,12 +55,11 @@
       <item value="accept" />
       <item value="is not eligible for getting processed by all BeanPostProcessors" />
       <item value="进度存储器" />
-      <item value="CONTEXT HOLDER" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="213" />
-        <entry key="ENGLISH" value="214" />
+        <entry key="CHINESE" value="214" />
+        <entry key="ENGLISH" value="215" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
@@ -69,7 +69,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1636353003997" />
+    <option name="lastTrimTime" value="1636956467172" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
