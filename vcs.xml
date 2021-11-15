@@ -114,6 +114,10 @@
           <option name="url" value="http://git.chometown.com/GUXIANGYUN/web_library.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Sayi/ddd-cargo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\workspace-guxiangyun" />
