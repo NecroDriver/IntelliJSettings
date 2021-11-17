@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="身份证号码" />
+      <item value="i D Card Number" />
       <item value="assemble Item Value" />
       <item value="find Latest By Condition" />
       <item value="Model Scene" />
@@ -53,13 +55,11 @@
       <item value="Represents a supplier of results. &lt;p&gt;There is no requirement that a new or distinct result be returned each time the supplier is invoked. &lt;p&gt;This is a &lt;a href=&quot;package-summary.html&quot;&gt;functional interface&lt;a&gt; whose functional method is {@link get()}." />
       <item value="Represents an operation that accepts a single input argument and returns no result. Unlike most other functional interfaces, {@code Consumer} is expected to operate via side-effects." />
       <item value="Performs this operation on the given argument." />
-      <item value="accept" />
-      <item value="is not eligible for getting processed by all BeanPostProcessors" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="215" />
-        <entry key="ENGLISH" value="216" />
+        <entry key="CHINESE" value="217" />
+        <entry key="ENGLISH" value="217" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
