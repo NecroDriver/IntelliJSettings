@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="权重" />
       <item value="Filter" />
       <item value="clean Invalid Token" />
       <item value="CLEAN INVALID TOKEN" />
@@ -54,11 +55,10 @@
       <item value="data List Supplier" />
       <item value="Creates the directory named by this abstract pathname, including any necessary but nonexistent parent directories. Note that if this operation fails it may have succeeded in creating some of the necessary parent directories. @return {@code true} if and only if the directory was created, along with all necessary parent directories; {@code false} otherwise @throws SecurityException If a security manager exists and its {@link java.lang.SecurityManagercheckRead(java.lang.String)} method does not permit verification of the existence of the named directory and all necessary parent directories; or if the {@link java.lang.SecurityManagercheckWrite(java.lang.String)} method does not permit the named directory and all necessary parent directories to be created" />
       <item value="get Canonical File" />
-      <item value="necessary but nonexistent parent directories. Note that if this operation fails it may have succeeded in creating some of the necessary parent directories." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="223" />
+        <entry key="CHINESE" value="224" />
         <entry key="ENGLISH" value="224" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
