@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="过滤线" />
+      <item value="filter Rate" />
       <item value="handle Calculate Info" />
       <item value="Basic Science User Sort" />
       <item value="权重" />
@@ -53,13 +55,11 @@
       <item value="progress Steps" />
       <item value="memo" />
       <item value="generate Excel File" />
-      <item value="generate File" />
-      <item value="data List Supplier" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="225" />
-        <entry key="ENGLISH" value="226" />
+        <entry key="CHINESE" value="227" />
+        <entry key="ENGLISH" value="227" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
