@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="章" />
       <item value="过滤线" />
       <item value="filter Rate" />
       <item value="handle Calculate Info" />
@@ -54,12 +55,11 @@
       <item value="delta" />
       <item value="progress Steps" />
       <item value="memo" />
-      <item value="generate Excel File" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="227" />
-        <entry key="ENGLISH" value="227" />
+        <entry key="CHINESE" value="228" />
+        <entry key="ENGLISH" value="228" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
