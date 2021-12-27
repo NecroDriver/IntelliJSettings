@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="表身" />
+      <item value="表头" />
       <item value="head Title" />
       <item value="边框颜色" />
       <item value="结构" />
@@ -53,13 +55,11 @@
       <item value="advice Date" />
       <item value="获取乐观锁" />
       <item value="获取锁" />
-      <item value="清空进度" />
-      <item value="clean Progress" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="230" />
-        <entry key="ENGLISH" value="231" />
+        <entry key="CHINESE" value="232" />
+        <entry key="ENGLISH" value="232" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
