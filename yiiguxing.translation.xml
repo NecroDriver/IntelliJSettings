@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Caffeine" />
       <item value="居中" />
       <item value="表身" />
       <item value="表头" />
@@ -54,12 +55,11 @@
       <item value="Refuse Repeat" />
       <item value="拒绝重复执行" />
       <item value="advice Date" />
-      <item value="获取乐观锁" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="233" />
-        <entry key="ENGLISH" value="233" />
+        <entry key="ENGLISH" value="234" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
