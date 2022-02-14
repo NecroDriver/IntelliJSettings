@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="vertical" />
       <item value="check Connectivity" />
       <item value="peaked" />
       <item value="Requests that the file or directory denoted by this abstract pathname be deleted when the virtual machine terminates. Files (or directories) are deleted in the reverse order that they are registered. Invoking this method to delete a file or directory that is already registered for deletion has no effect. Deletion will be attempted only for normal termination of the virtual machine, as defined by the Java Language Specification. &lt;p&gt; Once deletion has been requested, it is not possible to cancel the request. This method should therefore be used with care. &lt;P&gt; Note: this method should &lt;i&gt;not&lt;i&gt; be used for file-locking, as the resulting protocol cannot be made to work reliably. The" />
@@ -54,12 +55,11 @@
       <item value="classifier Type" />
       <item value="素养" />
       <item value="precent" />
-      <item value="Poltical" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="242" />
-        <entry key="ENGLISH" value="243" />
+        <entry key="CHINESE" value="243" />
+        <entry key="ENGLISH" value="244" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
