@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Divider" />
+      <item value="Reusable Primary Button" />
       <item value="user Bio" />
       <item value="user Profile Image" />
       <item value=":super(key:key)" />
@@ -53,13 +55,11 @@
       <item value="身份证号码" />
       <item value="i D Card Number" />
       <item value="assemble Item Value" />
-      <item value="find Latest By Condition" />
-      <item value="Model Scene" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="251" />
-        <entry key="ENGLISH" value="251" />
+        <entry key="CHINESE" value="252" />
+        <entry key="ENGLISH" value="253" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
