@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="await" />
+      <item value="async" />
       <item value="Original" />
       <item value="Abbreviated" />
       <item value="Re Type Password" />
@@ -53,13 +55,11 @@
       <item value="token失效清理" />
       <item value="discovery" />
       <item value="frontend" />
-      <item value="整理" />
-      <item value="progress Equal Condition" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="256" />
-        <entry key="ENGLISH" value="257" />
+        <entry key="CHINESE" value="258" />
+        <entry key="ENGLISH" value="259" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
