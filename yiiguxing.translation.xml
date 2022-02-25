@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="praise Add" />
       <item value="async" />
       <item value="Replied user ID" />
       <item value="praise" />
@@ -54,12 +55,11 @@
       <item value="章" />
       <item value="过滤线" />
       <item value="filter Rate" />
-      <item value="handle Calculate Info" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="267" />
-        <entry key="ENGLISH" value="268" />
+        <entry key="CHINESE" value="268" />
+        <entry key="ENGLISH" value="269" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
