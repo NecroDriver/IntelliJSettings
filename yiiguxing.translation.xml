@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="praise" />
+      <item value="forward" />
       <item value="must be immutable" />
       <item value="Called when the menu item is tapped. final VoidCallback? onTap;" />
       <item value="on Tap" />
@@ -53,13 +55,11 @@
       <item value="filter Rate" />
       <item value="handle Calculate Info" />
       <item value="Basic Science User Sort" />
-      <item value="权重" />
-      <item value="Filter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="263" />
-        <entry key="ENGLISH" value="264" />
+        <entry key="CHINESE" value="265" />
+        <entry key="ENGLISH" value="266" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
