@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Replied user ID" />
       <item value="praise" />
       <item value="forward" />
       <item value="must be immutable" />
@@ -54,12 +55,11 @@
       <item value="过滤线" />
       <item value="filter Rate" />
       <item value="handle Calculate Info" />
-      <item value="Basic Science User Sort" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="265" />
-        <entry key="ENGLISH" value="266" />
+        <entry key="CHINESE" value="266" />
+        <entry key="ENGLISH" value="267" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
