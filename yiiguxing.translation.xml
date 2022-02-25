@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="async" />
       <item value="Replied user ID" />
       <item value="praise" />
       <item value="forward" />
@@ -14,7 +15,6 @@
       <item value="thickness" />
       <item value="avatar" />
       <item value="await" />
-      <item value="async" />
       <item value="Original" />
       <item value="Abbreviated" />
       <item value="Re Type Password" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="266" />
-        <entry key="ENGLISH" value="267" />
+        <entry key="CHINESE" value="267" />
+        <entry key="ENGLISH" value="268" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
