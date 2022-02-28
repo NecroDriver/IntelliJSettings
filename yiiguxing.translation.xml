@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="consolidate Http Client Response Bytes" />
       <item value="qrcode" />
       <item value="Theme Provider" />
       <item value="initialize Note List" />
@@ -54,12 +55,11 @@
       <item value="head Title" />
       <item value="边框颜色" />
       <item value="结构" />
-      <item value="stu Report Compose" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="271" />
-        <entry key="ENGLISH" value="272" />
+        <entry key="CHINESE" value="272" />
+        <entry key="ENGLISH" value="273" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
