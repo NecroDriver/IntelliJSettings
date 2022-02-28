@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Theme Provider" />
       <item value="initialize Note List" />
       <item value="praise Add" />
       <item value="async" />
@@ -54,12 +55,11 @@
       <item value="结构" />
       <item value="stu Report Compose" />
       <item value="章" />
-      <item value="过滤线" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="269" />
-        <entry key="ENGLISH" value="270" />
+        <entry key="CHINESE" value="270" />
+        <entry key="ENGLISH" value="271" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
