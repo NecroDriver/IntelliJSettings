@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Variant 'apiElements' capability com.yun:biz_authorization_microservice:1.0.100-SNAPSHOT declares an API of a library, packaged as a jar, and its dependencies declared externally: - Incompatible because this component declares a component compatible with Java 14 and the consumer needed a component compatible with Java 12 - Other compatible attribute: - Doesn't say anything about its target Java environment (preferred optimized for standard JVMs)" />
+      <item value="No matching variant of com.yun:biz_authorization_microservice:1.0.100-SNAPSHOT:20220302.055916-1 was found. The consumer was configured to find an API of a library compatible with Java 12, preferably in the form of class files, preferably optimized for standard JVMs, and its dependencies declared externally but" />
       <item value="Declare repository providing the artifact" />
       <item value="consolidate Http Client Response Bytes" />
       <item value="qrcode" />
@@ -53,13 +55,11 @@
       <item value="居中" />
       <item value="表身" />
       <item value="表头" />
-      <item value="head Title" />
-      <item value="边框颜色" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="273" />
-        <entry key="ENGLISH" value="274" />
+        <entry key="CHINESE" value="275" />
+        <entry key="ENGLISH" value="276" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
