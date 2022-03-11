@@ -130,9 +130,13 @@
           <option name="url" value="https://git.chometown.com/GUXIANGYUN/edu-mobile" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.chometown.com/GUXIANGYUN/service-4.0-web" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\workspace-guxiangyun\web" />
+    <option name="cloneParentDir" value="E:\workspace-guxiangyun" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
