@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="&lt;p&gt; Specification class containing everything needed by the template engine related to the template to be processed. Objects of this class are normally used as an argument to the different {@code process(...)} methods at {@link ITemplateEngine}. &lt;p&gt; &lt;p&gt; The only required value in a template specification is the &lt;em&gt;template&lt;em&gt;, which normally represents the &lt;em&gt;template name&lt;em&gt;, but can be the entire template contents if the template is meant to be specified as a String and resolved by a {@link org.thymeleaf.templateresolver.StringTemplateResolver}. &lt;p&gt; &lt;p&gt; This is not to be mistaken for the template processing &lt;strong&gt;context&lt;strong&gt;, containing the data to be used during the processing of the template (variables, locale, etc.) and modelled by the {@link org.thymeleaf.context.IContext} interface. &lt;p&gt; &lt;p&gt; The data contained in a Template Specification relates to and identifies the template itself, independently of any data (variables, etc.) used for processing it. &lt;p&gt; &lt;p&gt; Objects of this class are &lt;strong&gt;thread-safe&lt;strong&gt;. &lt;p&gt;" />
       <item value="template Resolution Attributes" />
       <item value="compute Template Resource" />
       <item value="parse Standalone" />
@@ -54,12 +55,11 @@
       <item value="ITEM WIDTH" />
       <item value="Customize the response for MethodArgumentNotValidException. &lt;p&gt;This method delegates to {@link handleExceptionInternal}. @param ex the exception @param headers the headers to be written to the response @param status the selected response status @param request the current request @return a {@code ResponseEntity} instance" />
       <item value="Customize" />
-      <item value="Caffeine" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="279" />
-        <entry key="ENGLISH" value="280" />
+        <entry key="CHINESE" value="280" />
+        <entry key="ENGLISH" value="281" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
