@@ -115,6 +115,9 @@
     <keyboard-shortcut first-keystroke="alt f3" />
   </action>
   <action id="Vcs.UpdateProject" />
+  <action id="WebServicesPlugin.CreateRestfulWebService">
+    <keyboard-shortcut first-keystroke="ctrl back_slash" />
+  </action>
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
   <action id="android.deploy.ApplyChanges">
