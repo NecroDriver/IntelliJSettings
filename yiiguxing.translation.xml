@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="描述" />
       <item value="剩下的数量" />
       <item value="leaft Count" />
       <item value="left Count" />
@@ -54,12 +55,11 @@
       <item value="altermanager" />
       <item value="server" />
       <item value="namespace" />
-      <item value="gx-ellipsis-multi-line" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="283" />
-        <entry key="ENGLISH" value="283" />
+        <entry key="CHINESE" value="284" />
+        <entry key="ENGLISH" value="284" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
