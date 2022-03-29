@@ -134,6 +134,10 @@
           <option name="url" value="https://git.chometown.com/GUXIANGYUN/service-4.0-web" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.chometown.com/GUXIANGYUN/gxy-erupt.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\workspace-guxiangyun" />
