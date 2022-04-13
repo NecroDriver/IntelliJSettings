@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="2b87ce57-72da-4336-a147-5d4f948c5d17" name="NecroDriver">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
