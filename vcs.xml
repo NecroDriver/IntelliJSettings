@@ -142,9 +142,13 @@
           <option name="url" value="http://git.chometown.com/GUXIANGYUN/gxy-erupt-web.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.chometown.com/GUXIANGYUN/manage_web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\workspace-guxiangyun" />
+    <option name="cloneParentDir" value="F:\workspace-gxy" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
