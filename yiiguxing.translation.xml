@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="can Participant" />
       <item value="go Website" />
       <item value="subordinate Id" />
       <item value="carousel" />
@@ -54,12 +55,11 @@
       <item value="static Key" />
       <item value="组装excel的表字段" />
       <item value="Row" />
-      <item value="Column" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="292" />
-        <entry key="ENGLISH" value="293" />
+        <entry key="CHINESE" value="293" />
+        <entry key="ENGLISH" value="294" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
@@ -71,6 +71,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1649929121297" />
+    <option name="lastTrimTime" value="1650866054561" />
   </component>
 </application>
