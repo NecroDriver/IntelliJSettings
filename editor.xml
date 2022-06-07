@@ -1,9 +1,10 @@
 <application>
   <component name="CodeInsightSettings">
+    <option name="completionCaseSensitive" value="2" />
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
   </component>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE:PREVIEW" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc;*.java;*.vue;*.js;*.dart;*.html" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
