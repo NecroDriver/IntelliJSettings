@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="route" />
+      <item value="router" />
       <item value="give User List" />
       <item value="chevron" />
       <item value="tpl.html" />
@@ -53,13 +55,11 @@
       <item value="await" />
       <item value="Original" />
       <item value="Abbreviated" />
-      <item value="Re Type Password" />
-      <item value="forgot Password" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="301" />
-        <entry key="ENGLISH" value="302" />
+        <entry key="CHINESE" value="303" />
+        <entry key="ENGLISH" value="304" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
@@ -71,6 +71,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1653562950604" />
+    <option name="lastTrimTime" value="1654584265882" />
   </component>
 </application>
