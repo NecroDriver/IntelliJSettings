@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="工具框" />
       <item value="选项" />
       <item value="导入" />
       <item value="spread Card List" />
@@ -54,12 +55,11 @@
       <item value="forward" />
       <item value="Called when the menu item is tapped. final VoidCallback? onTap;" />
       <item value="on Tap" />
-      <item value="thickness" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="307" />
-        <entry key="ENGLISH" value="307" />
+        <entry key="CHINESE" value="308" />
+        <entry key="ENGLISH" value="308" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
