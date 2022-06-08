@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="reactive" />
       <item value="route" />
       <item value="router" />
       <item value="give User List" />
@@ -54,12 +55,11 @@
       <item value="avatar" />
       <item value="await" />
       <item value="Original" />
-      <item value="Abbreviated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="303" />
-        <entry key="ENGLISH" value="304" />
+        <entry key="CHINESE" value="304" />
+        <entry key="ENGLISH" value="305" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
