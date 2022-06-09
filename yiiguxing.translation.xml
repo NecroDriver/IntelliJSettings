@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Teach Org Adapter" />
       <item value="导航栏" />
       <item value="telephone" />
       <item value="contact Name" />
@@ -54,12 +55,11 @@
       <item value="praise Add" />
       <item value="async" />
       <item value="Replied user ID" />
-      <item value="praise" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="310" />
-        <entry key="ENGLISH" value="310" />
+        <entry key="ENGLISH" value="311" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
