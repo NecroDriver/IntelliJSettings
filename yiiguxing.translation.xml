@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="未选择成员" />
       <item value="Content Wrap" />
       <item value="Divider" />
       <item value="phone" />
@@ -54,11 +55,10 @@
       <item value="log Out" />
       <item value="keywords" />
       <item value="Status Not Acceptable" />
-      <item value="Status Payment Required" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="331" />
+        <entry key="CHINESE" value="332" />
         <entry key="ENGLISH" value="332" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
