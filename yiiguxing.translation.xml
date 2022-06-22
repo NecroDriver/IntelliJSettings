@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="is Logged" />
+      <item value="已登录" />
+      <item value="is Login" />
+      <item value="is Logined" />
       <item value="Determines if the class or interface represented by this {@code Class} object is either the same as, or is a superclass or superinterface of, the class or interface represented by the specified {@code Class} parameter. It returns {@code true} if so; otherwise it returns {@code false}. If this {@code Class} object represents a primitive type, this method returns {@code true} if the specified {@code Class} parameter is exactly this {@code Class} object; otherwise it returns {@code false}. &lt;p&gt; Specifically, this method tests whether the type represented by the specified {@code Class} parameter can be converted to the type represented by this {@code Class} object via an identity conversion or via a widening reference conversion. See &lt;em&gt;The Java Language Specification&lt;em&gt;, sections 5.1.1 and 5.1.4 , for details. @param cls the {@code Class} object to be checked @return the {@code boolean} value indicating whether objects of the type {@code cls} can be assigned to objects of this class @throws NullPointerException if the specified Class parameter is null. @since 1.1" />
       <item value="is Assignable From" />
       <item value="未选择成员" />
@@ -51,19 +55,16 @@
       <item value="can Participant" />
       <item value="go Website" />
       <item value="subordinate Id" />
-      <item value="carousel" />
-      <item value="banner" />
-      <item value="banner-list" />
-      <item value="log Out" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="333" />
-        <entry key="ENGLISH" value="334" />
+        <entry key="CHINESE" value="336" />
+        <entry key="ENGLISH" value="337" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="CROATIAN" value="1" />
+        <entry key="LITHUANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="JAPANESE" value="1" />
         <entry key="VIETNAMESE" value="1" />
