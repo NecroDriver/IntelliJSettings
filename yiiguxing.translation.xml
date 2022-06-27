@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="go Edu Web Site" />
       <item value="is Logged" />
       <item value="已登录" />
       <item value="is Login" />
@@ -54,12 +55,11 @@
       <item value="shadow Blur" />
       <item value="can Participant" />
       <item value="go Website" />
-      <item value="subordinate Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="336" />
-        <entry key="ENGLISH" value="337" />
+        <entry key="CHINESE" value="337" />
+        <entry key="ENGLISH" value="338" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
@@ -72,6 +72,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1655709310269" />
+    <option name="lastTrimTime" value="1656311647892" />
   </component>
 </application>
