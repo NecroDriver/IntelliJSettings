@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="organization product category" />
+      <item value="企业产品" />
+      <item value="Organization Production" />
       <item value="go Edu Web Site" />
       <item value="is Logged" />
       <item value="已登录" />
@@ -52,14 +55,11 @@
       <item value="MULTIPLY" />
       <item value="Enroll" />
       <item value="Enroll Personal" />
-      <item value="shadow Blur" />
-      <item value="can Participant" />
-      <item value="go Website" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="337" />
-        <entry key="ENGLISH" value="338" />
+        <entry key="CHINESE" value="339" />
+        <entry key="ENGLISH" value="340" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
