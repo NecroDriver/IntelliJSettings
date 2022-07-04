@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="浏览" />
       <item value="Last Name" />
       <item value="transparent" />
       <item value="organization product category" />
@@ -54,11 +55,10 @@
       <item value="tpl.html" />
       <item value="auto Increment" />
       <item value="自增" />
-      <item value="MULTIPLY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="341" />
+        <entry key="CHINESE" value="342" />
         <entry key="ENGLISH" value="342" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
@@ -72,6 +72,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1656311647892" />
+    <option name="lastTrimTime" value="1656925131204" />
   </component>
 </application>
