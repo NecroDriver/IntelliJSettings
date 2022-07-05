@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="请输入正确的邮箱地址" />
+      <item value="The length of the value you enter should less or equals 30" />
+      <item value="The length of the value you enter should less equals 30" />
+      <item value="您输入的值的长度应小于等于30。" />
       <item value="浏览" />
       <item value="Last Name" />
       <item value="transparent" />
@@ -51,15 +55,11 @@
       <item value="route" />
       <item value="router" />
       <item value="give User List" />
-      <item value="chevron" />
-      <item value="tpl.html" />
-      <item value="auto Increment" />
-      <item value="自增" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="342" />
-        <entry key="ENGLISH" value="342" />
+        <entry key="CHINESE" value="345" />
+        <entry key="ENGLISH" value="345" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
