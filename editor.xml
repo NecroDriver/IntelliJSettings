@@ -5,7 +5,7 @@
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE:PREVIEW" />
-    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc;*.java;*.vue;*.js;*.dart;*.html" />
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc;*.java;*.vue;*.js;*.dart;*.html;*.ts" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
   </component>
