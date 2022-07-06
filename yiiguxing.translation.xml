@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="integration" />
       <item value="请输入正确的邮箱地址" />
       <item value="The length of the value you enter should less or equals 30" />
       <item value="The length of the value you enter should less equals 30" />
@@ -54,12 +55,11 @@
       <item value="reactive" />
       <item value="route" />
       <item value="router" />
-      <item value="give User List" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="345" />
-        <entry key="ENGLISH" value="345" />
+        <entry key="ENGLISH" value="346" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
