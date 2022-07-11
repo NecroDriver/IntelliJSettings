@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="同步联系人的模块" />
+      <item value="通话类型" />
       <item value="自动同步联系人" />
       <item value="extension Id" />
       <item value="自动绑定" />
@@ -53,13 +55,11 @@
       <item value="联系人" />
       <item value="contactor" />
       <item value="contact" />
-      <item value="通讯录" />
-      <item value="Teach Org Adapter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="353" />
-        <entry key="ENGLISH" value="353" />
+        <entry key="CHINESE" value="355" />
+        <entry key="ENGLISH" value="355" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
