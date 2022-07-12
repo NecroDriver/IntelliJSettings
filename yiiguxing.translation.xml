@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="认证失败，请重新认证！" />
       <item value="呼入" />
       <item value="Inbound" />
       <item value="scope" />
@@ -54,12 +55,11 @@
       <item value="邮政编码" />
       <item value="Chamber" />
       <item value="Commerce" />
-      <item value="Chamber Of Commerce" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="357" />
-        <entry key="ENGLISH" value="357" />
+        <entry key="CHINESE" value="358" />
+        <entry key="ENGLISH" value="358" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
