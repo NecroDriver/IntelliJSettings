@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="请勿重复绑定分机" />
+      <item value="repeat Bind Extension" />
       <item value="Temporal Type" />
       <item value="phone" />
       <item value="expire" />
@@ -53,13 +55,11 @@
       <item value="手机号码" />
       <item value="街道" />
       <item value="市" />
-      <item value="国家" />
-      <item value="邮政编码" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="360" />
-        <entry key="ENGLISH" value="361" />
+        <entry key="CHINESE" value="362" />
+        <entry key="ENGLISH" value="362" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
@@ -72,6 +72,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1657507550375" />
+    <option name="lastTrimTime" value="1658128257655" />
   </component>
 </application>
