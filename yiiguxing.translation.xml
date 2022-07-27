@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="报名课程" />
+      <item value="registration" />
+      <item value="我要报名" />
       <item value="前往Crm浏览该号码相关信息" />
       <item value="全量同步中，请稍后至通讯录中查看" />
       <item value="将根据下方设置为您全量同步 Zoho 线索联系人账户数据，确定要全量同步？" />
@@ -52,14 +55,11 @@
       <item value="go Edu Web Site" />
       <item value="is Logged" />
       <item value="已登录" />
-      <item value="is Login" />
-      <item value="is Logined" />
-      <item value="Determines if the class or interface represented by this {@code Class} object is either the same as, or is a superclass or superinterface of, the class or interface represented by the specified {@code Class} parameter. It returns {@code true} if so; otherwise it returns {@code false}. If this {@code Class} object represents a primitive type, this method returns {@code true} if the specified {@code Class} parameter is exactly this {@code Class} object; otherwise it returns {@code false}. &lt;p&gt; Specifically, this method tests whether the type represented by the specified {@code Class} parameter can be converted to the type represented by this {@code Class} object via an identity conversion or via a widening reference conversion. See &lt;em&gt;The Java Language Specification&lt;em&gt;, sections 5.1.1 and 5.1.4 , for details. @param cls the {@code Class} object to be checked @return the {@code boolean} value indicating whether objects of the type {@code cls} can be assigned to objects of this class @throws NullPointerException if the specified Class parameter is null. @since 1.1" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="374" />
-        <entry key="ENGLISH" value="374" />
+        <entry key="CHINESE" value="376" />
+        <entry key="ENGLISH" value="376" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
