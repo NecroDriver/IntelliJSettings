@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Scheduled" />
       <item value="报名课程" />
       <item value="registration" />
       <item value="我要报名" />
@@ -54,12 +55,11 @@
       <item value="Organization Production" />
       <item value="go Edu Web Site" />
       <item value="is Logged" />
-      <item value="已登录" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="376" />
-        <entry key="ENGLISH" value="376" />
+        <entry key="ENGLISH" value="377" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
@@ -72,6 +72,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1658631937449" />
+    <option name="lastTrimTime" value="1659422139765" />
   </component>
 </application>
