@@ -5,7 +5,16 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Authorition" />
+      <item value="私有" />
+      <item value="坐席私有" />
+      <item value="全体共享" />
       <item value="无归属" />
+      <item value="队列共享" />
+      <item value="客户归属" />
+      <item value="授权队列" />
+      <item value="None All Queues" />
+      <item value="全部队列" />
       <item value="global" />
       <item value="vertical" />
       <item value="fluid" />
@@ -46,20 +55,11 @@
       <item value="enable" />
       <item value="绑定zoho用户和分机即可享受丰富的集成功能" />
       <item value="认证成功" />
-      <item value="认证成功，绑定zoho用户和分机即可享受丰富的集成功能。" />
-      <item value="网络请求超时" />
-      <item value="integration" />
-      <item value="请输入正确的邮箱地址" />
-      <item value="The length of the value you enter should less or equals 30" />
-      <item value="The length of the value you enter should less equals 30" />
-      <item value="您输入的值的长度应小于等于30。" />
-      <item value="浏览" />
-      <item value="Last Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="382" />
-        <entry key="ENGLISH" value="382" />
+        <entry key="CHINESE" value="394" />
+        <entry key="ENGLISH" value="395" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
