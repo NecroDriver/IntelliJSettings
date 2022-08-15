@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="无归属" />
       <item value="global" />
       <item value="vertical" />
       <item value="fluid" />
@@ -54,11 +55,10 @@
       <item value="您输入的值的长度应小于等于30。" />
       <item value="浏览" />
       <item value="Last Name" />
-      <item value="transparent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="381" />
+        <entry key="CHINESE" value="382" />
         <entry key="ENGLISH" value="382" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
@@ -72,6 +72,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1660032572857" />
+    <option name="lastTrimTime" value="1660544956976" />
   </component>
 </application>
