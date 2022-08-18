@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Cjrh Module Scope" />
       <item value="scope" />
       <item value="归属于她" />
       <item value="归属" />
@@ -54,12 +55,11 @@
       <item value="Temporal Type" />
       <item value="phone" />
       <item value="expire" />
-      <item value="认证失败，请重新认证！" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="404" />
-        <entry key="ENGLISH" value="405" />
+        <entry key="CHINESE" value="405" />
+        <entry key="ENGLISH" value="406" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
