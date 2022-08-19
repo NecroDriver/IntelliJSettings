@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="技能培训" />
+      <item value="学历课程" />
       <item value="Cjrh Module Scope" />
       <item value="scope" />
       <item value="归属于她" />
@@ -53,13 +55,11 @@
       <item value="请勿重复绑定分机" />
       <item value="repeat Bind Extension" />
       <item value="Temporal Type" />
-      <item value="phone" />
-      <item value="expire" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="405" />
-        <entry key="ENGLISH" value="406" />
+        <entry key="CHINESE" value="407" />
+        <entry key="ENGLISH" value="407" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
