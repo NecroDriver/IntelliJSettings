@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="exist" />
+      <item value="exisit" />
       <item value="oriented" />
       <item value="面向对象" />
       <item value="面向" />
@@ -53,17 +55,16 @@
       <item value="CRM同步" />
       <item value="已绑定分组" />
       <item value="自动绑定完成" />
-      <item value="初始化过配置" />
-      <item value="初始化配置" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="409" />
-        <entry key="ENGLISH" value="410" />
+        <entry key="CHINESE" value="410" />
+        <entry key="ENGLISH" value="411" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="CROATIAN" value="1" />
+        <entry key="LATIN" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="JAPANESE" value="1" />
@@ -72,6 +73,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1660544956976" />
+    <option name="lastTrimTime" value="1661497687312" />
   </component>
 </application>
