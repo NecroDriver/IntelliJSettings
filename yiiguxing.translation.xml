@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="模板下载" />
       <item value="exist" />
       <item value="exisit" />
       <item value="oriented" />
@@ -54,11 +55,10 @@
       <item value="CRM集成方" />
       <item value="CRM同步" />
       <item value="已绑定分组" />
-      <item value="自动绑定完成" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="410" />
+        <entry key="CHINESE" value="411" />
         <entry key="ENGLISH" value="411" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
