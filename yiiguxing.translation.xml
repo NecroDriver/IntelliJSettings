@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="是否删除所选中数据并移出群组成员" />
       <item value="模板下载" />
       <item value="exist" />
       <item value="exisit" />
@@ -54,12 +55,11 @@
       <item value="Remark" />
       <item value="CRM集成方" />
       <item value="CRM同步" />
-      <item value="已绑定分组" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="411" />
-        <entry key="ENGLISH" value="411" />
+        <entry key="CHINESE" value="412" />
+        <entry key="ENGLISH" value="412" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
