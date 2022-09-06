@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="callee" />
       <item value="请输入正确的手机号或座机号" />
       <item value="当前已选中数据，请选择" />
       <item value="是否删除所选中数据并移出群组成员" />
@@ -54,7 +55,6 @@
       <item value="全量同步中，请稍后至通讯录中查看" />
       <item value="将根据下方设置为您全量同步 Zoho 线索联系人账户数据，确定要全量同步？" />
       <item value="memo" />
-      <item value="Remark" />
     </histories>
     <option name="languageScores">
       <map>
