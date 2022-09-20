@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="新旧密码不能相同" />
+      <item value="新旧密码不可一致" />
       <item value="暂未支持该功能" />
       <item value="not Supported" />
       <item value="callee" />
@@ -53,13 +55,11 @@
       <item value="报名课程" />
       <item value="registration" />
       <item value="我要报名" />
-      <item value="前往Crm浏览该号码相关信息" />
-      <item value="全量同步中，请稍后至通讯录中查看" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="416" />
-        <entry key="ENGLISH" value="416" />
+        <entry key="CHINESE" value="418" />
+        <entry key="ENGLISH" value="418" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
@@ -73,6 +73,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1662532876074" />
+    <option name="lastTrimTime" value="1663642778972" />
   </component>
 </application>
