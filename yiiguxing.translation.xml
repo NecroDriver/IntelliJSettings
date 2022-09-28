@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="to Predicate" />
       <item value="extend" />
       <item value="开始时间范围" />
       <item value="新旧密码不能相同" />
@@ -54,7 +55,6 @@
       <item value="playsinline" />
       <item value="task Life Cycle" />
       <item value="Scheduled" />
-      <item value="报名课程" />
     </histories>
     <option name="languageScores">
       <map>
