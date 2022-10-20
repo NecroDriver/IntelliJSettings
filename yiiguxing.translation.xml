@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="初始化设置" />
       <item value="Quote" />
       <item value="block Quote" />
       <item value="数据来源类型" />
@@ -54,11 +55,10 @@
       <item value="授权队列" />
       <item value="None All Queues" />
       <item value="全部队列" />
-      <item value="global" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="421" />
+        <entry key="CHINESE" value="422" />
         <entry key="ENGLISH" value="422" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
