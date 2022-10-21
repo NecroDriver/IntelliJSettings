@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="auto generate your PBX Authorized Redirect URI" />
+      <item value="请输入正确的URL地址" />
       <item value="初始化设置" />
       <item value="Quote" />
       <item value="block Quote" />
@@ -53,13 +55,11 @@
       <item value="队列共享" />
       <item value="客户归属" />
       <item value="授权队列" />
-      <item value="None All Queues" />
-      <item value="全部队列" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="422" />
-        <entry key="ENGLISH" value="422" />
+        <entry key="CHINESE" value="424" />
+        <entry key="ENGLISH" value="425" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
