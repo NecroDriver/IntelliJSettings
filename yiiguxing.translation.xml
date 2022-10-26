@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="当前服务重启中，请稍后重新登录。" />
+      <item value="请稍后手动重启服务使应用生效" />
+      <item value="manually" />
+      <item value="手动重启服务" />
+      <item value="立刻重启服务使应用生效" />
       <item value="auto generate your PBX Authorized Redirect URI" />
       <item value="请输入正确的URL地址" />
       <item value="初始化设置" />
@@ -50,16 +55,11 @@
       <item value="Authorition" />
       <item value="私有" />
       <item value="坐席私有" />
-      <item value="全体共享" />
-      <item value="无归属" />
-      <item value="队列共享" />
-      <item value="客户归属" />
-      <item value="授权队列" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="424" />
-        <entry key="ENGLISH" value="425" />
+        <entry key="CHINESE" value="428" />
+        <entry key="ENGLISH" value="428" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
@@ -73,7 +73,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1666170157006" />
+    <option name="lastTrimTime" value="1666771095026" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
