@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Installation" />
+      <item value="campaign" />
       <item value="当前服务重启中，请稍后重新登录。" />
       <item value="请稍后手动重启服务使应用生效" />
       <item value="manually" />
@@ -53,13 +55,11 @@
       <item value="option" />
       <item value="可选" />
       <item value="Authorition" />
-      <item value="私有" />
-      <item value="坐席私有" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="428" />
-        <entry key="ENGLISH" value="428" />
+        <entry key="CHINESE" value="429" />
+        <entry key="ENGLISH" value="430" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
@@ -73,7 +73,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1666771095026" />
+    <option name="lastTrimTime" value="1667352371567" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
