@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'vue-element-plus-admin'" />
-    <option name="defaultScopeName" value="Project 'vue-element-plus-admin'" />
-    <option name="SEARCH_SCOPE" value="Project 'vue-element-plus-admin'" />
+    <option name="customScope" value="Module 'contact-center-frontend'" />
+    <option name="defaultScopeName" value="Module 'contact-center-frontend'" />
+    <option name="SEARCH_SCOPE" value="Module 'contact-center-frontend'" />
     <mask>.yml</mask>
     <mask>.gradle</mask>
   </component>
