@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogWidth" value="594" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="criteria Builder" />
       <item value="Chat Plan Visitor Repository" />
       <item value="live Preview" />
       <item value="The direct chat link can be shared with visitors for launching the chat service immediately without having to go through a web page. This can be handy when you share your direct chat link in your social media profiles or email signatures" />
@@ -53,12 +54,11 @@
       <item value="Customer Attribute Obj" />
       <item value="bind" />
       <item value="This phone has bind by Other" />
-      <item value="该手机号已绑定其他客户" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="436" />
-        <entry key="ENGLISH" value="437" />
+        <entry key="CHINESE" value="437" />
+        <entry key="ENGLISH" value="438" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
