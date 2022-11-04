@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="Waiting" />
       <item value="criteria Builder" />
       <item value="Chat Plan Visitor Repository" />
       <item value="live Preview" />
@@ -53,12 +54,11 @@
       <item value="归属" />
       <item value="Customer Attribute Obj" />
       <item value="bind" />
-      <item value="This phone has bind by Other" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="437" />
-        <entry key="ENGLISH" value="438" />
+        <entry key="CHINESE" value="438" />
+        <entry key="ENGLISH" value="439" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
