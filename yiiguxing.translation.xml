@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="分配坐席人员" />
+      <item value="customer" />
       <item value="tenant Id" />
       <item value="您好！请问需要帮助吗？" />
       <item value="Enter an Invitation Message" />
@@ -52,13 +54,11 @@
       <item value="当前已选中数据，请选择" />
       <item value="是否删除所选中数据并移出群组成员" />
       <item value="模板下载" />
-      <item value="exist" />
-      <item value="exisit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="447" />
-        <entry key="ENGLISH" value="448" />
+        <entry key="CHINESE" value="449" />
+        <entry key="ENGLISH" value="449" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
