@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="Waiting" />
       <item value="notification" />
       <item value="分配坐席人员" />
       <item value="customer" />
@@ -19,7 +20,6 @@
       <item value="Ban a visitor from live chat. A banned visitor cannot initiate chats and is not displayed in the Agent Console." />
       <item value="Release captured visitors so they will disappear from the visitor list after they leave your website." />
       <item value="Captured visitors will still be displayed in the visitor list after they leave your website." />
-      <item value="Waiting" />
       <item value="criteria Builder" />
       <item value="Chat Plan Visitor Repository" />
       <item value="live Preview" />
@@ -57,8 +57,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="449" />
-        <entry key="ENGLISH" value="450" />
+        <entry key="CHINESE" value="450" />
+        <entry key="ENGLISH" value="451" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
