@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="browser System" />
+      <item value="浏览器系统信息" />
+      <item value="操作系统" />
+      <item value="操作系统信息" />
       <item value="action" />
       <item value="Waiting" />
       <item value="notification" />
@@ -50,15 +54,11 @@
       <item value="新旧密码不能相同" />
       <item value="新旧密码不可一致" />
       <item value="暂未支持该功能" />
-      <item value="not Supported" />
-      <item value="callee" />
-      <item value="请输入正确的手机号或座机号" />
-      <item value="当前已选中数据，请选择" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="451" />
-        <entry key="ENGLISH" value="452" />
+        <entry key="CHINESE" value="454" />
+        <entry key="ENGLISH" value="455" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
