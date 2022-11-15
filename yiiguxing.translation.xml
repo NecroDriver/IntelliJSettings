@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="Email Sent Successfully" />
+      <item value="Sent" />
+      <item value="Successfully" />
+      <item value="Email Sent Successful" />
+      <item value="Input the email address of your webmaster" />
       <item value="browser System" />
       <item value="浏览器系统信息" />
       <item value="操作系统" />
@@ -49,16 +54,11 @@
       <item value="is Valid" />
       <item value="删除后，相关公司账号将无法登陆，是否确认删除" />
       <item value="to Predicate" />
-      <item value="extend" />
-      <item value="开始时间范围" />
-      <item value="新旧密码不能相同" />
-      <item value="新旧密码不可一致" />
-      <item value="暂未支持该功能" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="454" />
-        <entry key="ENGLISH" value="455" />
+        <entry key="CHINESE" value="459" />
+        <entry key="ENGLISH" value="460" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
@@ -72,7 +72,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1667801395688" />
+    <option name="lastTrimTime" value="1668496654849" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
