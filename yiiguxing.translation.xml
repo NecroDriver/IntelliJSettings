@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="Panel" />
       <item value="等待客服进入" />
       <item value="agent Enter" />
       <item value="Email Sent Successfully" />
@@ -53,12 +54,11 @@
       <item value="Quote" />
       <item value="block Quote" />
       <item value="数据来源类型" />
-      <item value="is Valid" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="461" />
-        <entry key="ENGLISH" value="461" />
+        <entry key="ENGLISH" value="462" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
