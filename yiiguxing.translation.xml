@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="等待客服进入" />
+      <item value="agent Enter" />
       <item value="Email Sent Successfully" />
       <item value="Sent" />
       <item value="Successfully" />
@@ -52,13 +54,11 @@
       <item value="block Quote" />
       <item value="数据来源类型" />
       <item value="is Valid" />
-      <item value="删除后，相关公司账号将无法登陆，是否确认删除" />
-      <item value="to Predicate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="459" />
-        <entry key="ENGLISH" value="460" />
+        <entry key="CHINESE" value="461" />
+        <entry key="ENGLISH" value="461" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
