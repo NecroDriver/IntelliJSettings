@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="历史记录" />
       <item value="Panel" />
       <item value="等待客服进入" />
       <item value="agent Enter" />
@@ -53,11 +54,10 @@
       <item value="初始化设置" />
       <item value="Quote" />
       <item value="block Quote" />
-      <item value="数据来源类型" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="461" />
+        <entry key="CHINESE" value="462" />
         <entry key="ENGLISH" value="462" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
