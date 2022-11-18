@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="omni Channel" />
       <item value="the &quot;{}&quot; text link will not displayed in the email reply." />
       <item value="With this option selected" />
       <item value="Advanced" />
@@ -53,12 +54,11 @@
       <item value="email your code to your webmaster" />
       <item value="To install Deltapath Cinch Contact Center Omni-channel Extension Live Chat, please copy and paste the following code into your website code before the closing \\&lt;\\body\\&gt; tag" />
       <item value="repeat Plan Name" />
-      <item value="Installation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="470" />
-        <entry key="ENGLISH" value="471" />
+        <entry key="CHINESE" value="471" />
+        <entry key="ENGLISH" value="472" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
