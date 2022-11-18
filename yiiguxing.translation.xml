@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="omoni" />
+      <item value="omoni Channel" />
       <item value="Browser" />
       <item value="location" />
       <item value="历史记录" />
@@ -52,12 +54,10 @@
       <item value="手动重启服务" />
       <item value="立刻重启服务使应用生效" />
       <item value="auto generate your PBX Authorized Redirect URI" />
-      <item value="请输入正确的URL地址" />
-      <item value="初始化设置" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="463" />
+        <entry key="CHINESE" value="464" />
         <entry key="ENGLISH" value="464" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
@@ -67,6 +67,7 @@
         <entry key="LITHUANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="JAPANESE" value="1" />
+        <entry key="INDONESIAN" value="2" />
         <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
