@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="the &quot;{}&quot; text link will not displayed in the email reply." />
+      <item value="With this option selected" />
+      <item value="Advanced" />
+      <item value="The default email account is used as the default sender for tickets converted from live chats, offline messages or the manually created new tickets from the Agrnt Console." />
+      <item value="Please choose default email account" />
+      <item value="Default email account" />
       <item value="Email Channel Settings" />
       <item value="omoni" />
       <item value="omoni Channel" />
@@ -48,17 +54,11 @@
       <item value="To install Deltapath Cinch Contact Center Omni-channel Extension Live Chat, please copy and paste the following code into your website code before the closing \\&lt;\\body\\&gt; tag" />
       <item value="repeat Plan Name" />
       <item value="Installation" />
-      <item value="campaign" />
-      <item value="当前服务重启中，请稍后重新登录。" />
-      <item value="请稍后手动重启服务使应用生效" />
-      <item value="manually" />
-      <item value="手动重启服务" />
-      <item value="立刻重启服务使应用生效" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="464" />
-        <entry key="ENGLISH" value="465" />
+        <entry key="CHINESE" value="470" />
+        <entry key="ENGLISH" value="471" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
