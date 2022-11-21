@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="Slider" />
+      <item value="Switch" />
+      <item value="Email Captcha" />
       <item value="Failure Reason" />
       <item value="Authentication" />
       <item value="Encrypted connection type" />
@@ -51,14 +54,11 @@
       <item value="ban" />
       <item value="禁用状态" />
       <item value="Go to Chat" />
-      <item value="Ban a visitor from live chat. A banned visitor cannot initiate chats and is not displayed in the Agent Console." />
-      <item value="Release captured visitors so they will disappear from the visitor list after they leave your website." />
-      <item value="Captured visitors will still be displayed in the visitor list after they leave your website." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="479" />
-        <entry key="ENGLISH" value="480" />
+        <entry key="CHINESE" value="482" />
+        <entry key="ENGLISH" value="483" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
