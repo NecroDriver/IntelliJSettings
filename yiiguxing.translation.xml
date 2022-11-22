@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="addresses" />
       <item value="failure Reason" />
       <item value="incoming User Name" />
       <item value="Slider" />
@@ -53,12 +54,11 @@
       <item value="离线" />
       <item value="Ban visitor from this IP." />
       <item value="Ban visitor from this Visitor Id." />
-      <item value="ban" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="484" />
-        <entry key="ENGLISH" value="485" />
+        <entry key="CHINESE" value="485" />
+        <entry key="ENGLISH" value="486" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
