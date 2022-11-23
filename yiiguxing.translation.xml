@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="blind carbon copy" />
+      <item value="carbon copy" />
       <item value="contain Attachment" />
       <item value="container Attachment" />
       <item value="receive Address" />
@@ -52,13 +54,11 @@
       <item value="分配坐席人员" />
       <item value="customer" />
       <item value="tenant Id" />
-      <item value="您好！请问需要帮助吗？" />
-      <item value="Enter an Invitation Message" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="488" />
-        <entry key="ENGLISH" value="489" />
+        <entry key="CHINESE" value="490" />
+        <entry key="ENGLISH" value="491" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
