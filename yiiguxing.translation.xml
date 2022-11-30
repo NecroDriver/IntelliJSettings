@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="tip Visible" />
       <item value="发送访客行为" />
       <item value="reply" />
       <item value="replay" />
@@ -53,12 +54,11 @@
       <item value="browser System" />
       <item value="浏览器系统信息" />
       <item value="操作系统" />
-      <item value="操作系统信息" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="495" />
-        <entry key="ENGLISH" value="495" />
+        <entry key="ENGLISH" value="496" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
