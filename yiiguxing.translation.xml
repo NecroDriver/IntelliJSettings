@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="Queued chats with a higher priority are distributed before those with a lower setting. When priority is the same for multiple chats in the queue, chats will be distributed sequentially based on the time they entered the queue. By default, each chat request is assigned with the Normal priority." />
+      <item value="Priority" />
+      <item value="Route" />
+      <item value="Route Visitors to" />
       <item value="There are no other agents available.You cannot transfer the ongoing chat to another agent." />
       <item value="Leave chat after transfer" />
       <item value="Transfer the Chat to" />
@@ -50,15 +54,11 @@
       <item value="等待客服进入" />
       <item value="agent Enter" />
       <item value="Email Sent Successfully" />
-      <item value="Sent" />
-      <item value="Successfully" />
-      <item value="Email Sent Successful" />
-      <item value="Input the email address of your webmaster" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="498" />
-        <entry key="ENGLISH" value="499" />
+        <entry key="CHINESE" value="502" />
+        <entry key="ENGLISH" value="503" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
