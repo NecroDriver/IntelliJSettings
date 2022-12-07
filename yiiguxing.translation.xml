@@ -4,6 +4,20 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="Allow agents to manually accept chats when their concurrent chat number reaches the maximum value" />
+      <item value="Maximum Chat Number" />
+      <item value="Auto Accept Chats" />
+      <item value="For Each Agent" />
+      <item value="For All Agents" />
+      <item value="Maximum Number of Concurrent Auto-Accepted Chats" />
+      <item value="Backup Department" />
+      <item value="distributes chats to agents with a higher concurrent chat limit ratio before those with lower ones." />
+      <item value="Robin" />
+      <item value="Round Robin distributes chats to agents one by one sequentially based on the order they get online." />
+      <item value="Load Balancing distributes chats to the agent who has the least number of chats at the moment." />
+      <item value="Chat Distribution Rule defines how chat requests of a department are distributed to agents." />
+      <item value="Last-chatted Agent Preferred" />
+      <item value="Auto Distribution Method" />
       <item value="auto Distribution" />
       <item value="change Enabled" />
       <item value="A qualifier can be specified to aid the selection process of a suitable mapper. This is useful in case multiple mapping methods (hand written or generated) qualify and thus would result in an 'Ambiguous mapping methods found' error. A qualifier is a custom annotation and can be placed on a hand written mapper class or a method." />
@@ -40,25 +54,11 @@
       <item value="Encrypted connection type" />
       <item value="Outgoing mail server" />
       <item value="Use SSL" />
-      <item value="Incoming mail server" />
-      <item value="If you are not sure which Encrypted Connection is supported by your mail server, please contact your mail service provider or mail administrator." />
-      <item value="omni Channel" />
-      <item value="the &quot;{}&quot; text link will not displayed in the email reply." />
-      <item value="With this option selected" />
-      <item value="Advanced" />
-      <item value="The default email account is used as the default sender for tickets converted from live chats, offline messages or the manually created new tickets from the Agrnt Console." />
-      <item value="Please choose default email account" />
-      <item value="Default email account" />
-      <item value="Email Channel Settings" />
-      <item value="omoni" />
-      <item value="omoni Channel" />
-      <item value="Browser" />
-      <item value="location" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="508" />
-        <entry key="ENGLISH" value="509" />
+        <entry key="CHINESE" value="522" />
+        <entry key="ENGLISH" value="523" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
