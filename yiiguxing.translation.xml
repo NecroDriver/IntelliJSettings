@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="auto Distribution" />
       <item value="change Enabled" />
       <item value="A qualifier can be specified to aid the selection process of a suitable mapper. This is useful in case multiple mapping methods (hand written or generated) qualify and thus would result in an 'Ambiguous mapping methods found' error. A qualifier is a custom annotation and can be placed on a hand written mapper class or a method." />
       <item value="Whether the property specified via {@link target()} should be ignored by the generated mapping method or not. This can be useful when certain attributes should not be propagated from source or target or when properties in the target object are populated using a decorator and thus would be reported as unmapped target property by default. @return {@code true} if the given property should be ignored, {@code false} otherwise" />
@@ -53,12 +54,11 @@
       <item value="omoni Channel" />
       <item value="Browser" />
       <item value="location" />
-      <item value="历史记录" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="507" />
-        <entry key="ENGLISH" value="508" />
+        <entry key="CHINESE" value="508" />
+        <entry key="ENGLISH" value="509" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
