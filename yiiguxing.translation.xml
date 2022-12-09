@@ -4,6 +4,16 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="Open page in a new windowtab" />
+      <item value="Page URL" />
+      <item value="Place text label above the input" />
+      <item value="Place text label on the left of the input" />
+      <item value="Define the position of text label and input box for fields in visitor side windows." />
+      <item value="Greeting Message" />
+      <item value="Redirect visitors to a custom page" />
+      <item value="Use default offline message window" />
+      <item value="When your team is unavailable, the offline message window allows your visitors to leave messages that you can view and follow up on later." />
+      <item value="Offline Message" />
       <item value="hidden" />
       <item value="table Hidden" />
       <item value="Allow agents to manually accept chats when their concurrent chat number reaches the maximum value" />
@@ -44,21 +54,11 @@
       <item value="carbon copy" />
       <item value="contain Attachment" />
       <item value="container Attachment" />
-      <item value="receive Address" />
-      <item value="addresses" />
-      <item value="failure Reason" />
-      <item value="incoming User Name" />
-      <item value="Slider" />
-      <item value="Switch" />
-      <item value="Email Captcha" />
-      <item value="Failure Reason" />
-      <item value="Authentication" />
-      <item value="Encrypted connection type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="524" />
-        <entry key="ENGLISH" value="525" />
+        <entry key="CHINESE" value="534" />
+        <entry key="ENGLISH" value="535" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
