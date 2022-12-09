@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="hidden" />
+      <item value="table Hidden" />
       <item value="Allow agents to manually accept chats when their concurrent chat number reaches the maximum value" />
       <item value="Maximum Chat Number" />
       <item value="Auto Accept Chats" />
@@ -52,13 +54,11 @@
       <item value="Failure Reason" />
       <item value="Authentication" />
       <item value="Encrypted connection type" />
-      <item value="Outgoing mail server" />
-      <item value="Use SSL" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="522" />
-        <entry key="ENGLISH" value="523" />
+        <entry key="CHINESE" value="524" />
+        <entry key="ENGLISH" value="525" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
