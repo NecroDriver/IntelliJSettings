@@ -6,6 +6,5 @@
     <driver id="mysql.8">
       <artifact id="MySQL Connector/J 8" name="MySQL Connector/J 8" use="true" version="8.0.21" />
     </driver>
-    <driver id="snowflake" />
   </component>
 </application>
