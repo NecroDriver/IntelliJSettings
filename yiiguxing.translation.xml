@@ -83,4 +83,23 @@
     </option>
     <option name="translator" value="BAIDU" />
   </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1670740996310" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="translator" value="MICROSOFT" />
+  </component>
+  <component name="Translation.States">
+    <histories>
+      <item value="Check out your routing rules" />
+      <item value="Routing rules determine whom your offline messages should be sent to. It can be a department, an agent, or a preset email address.', emailOfflineMessageRoute: 'Check out your routing rules" />
+      <item value="Email Offline Message" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="3" />
+      </map>
+    </option>
+  </component>
 </application>
