@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="访客对象" />
       <item value="check Agent Available" />
       <item value="When enabled, there will always be three avatars in the header. If you only have 1 or 2 agents, system avatars will be added to make up for the missed ones." />
       <item value="Open page in a new windowtab" />
@@ -53,11 +54,10 @@
       <item value="Create new Contact" />
       <item value="cannot be instantiated" />
       <item value="blind carbon copy" />
-      <item value="carbon copy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="536" />
+        <entry key="CHINESE" value="537" />
         <entry key="ENGLISH" value="537" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
