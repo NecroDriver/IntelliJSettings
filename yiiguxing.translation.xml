@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="Simulate" />
+      <item value="You have no visitors now." />
       <item value="无可用分配路由" />
       <item value="Please select an agent" />
       <item value="transfer Fn" />
@@ -52,13 +54,11 @@
       <item value="Route Visitors to" />
       <item value="There are no other agents available.You cannot transfer the ongoing chat to another agent." />
       <item value="Leave chat after transfer" />
-      <item value="Transfer the Chat to" />
-      <item value="tip Visible" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="542" />
-        <entry key="ENGLISH" value="542" />
+        <entry key="CHINESE" value="543" />
+        <entry key="ENGLISH" value="544" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
