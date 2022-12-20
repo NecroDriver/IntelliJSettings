@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="无可用分配路由" />
       <item value="Please select an agent" />
       <item value="transfer Fn" />
       <item value="Connecting" />
@@ -53,11 +54,10 @@
       <item value="Leave chat after transfer" />
       <item value="Transfer the Chat to" />
       <item value="tip Visible" />
-      <item value="发送访客行为" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="541" />
+        <entry key="CHINESE" value="542" />
         <entry key="ENGLISH" value="542" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
