@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="receiver Id" />
+      <item value="接收人id" />
       <item value="聊天已结束" />
       <item value="Simulate" />
       <item value="You have no visitors now." />
@@ -52,13 +54,11 @@
       <item value="Queued chats with a higher priority are distributed before those with a lower setting. When priority is the same for multiple chats in the queue, chats will be distributed sequentially based on the time they entered the queue. By default, each chat request is assigned with the Normal priority." />
       <item value="Priority" />
       <item value="Route" />
-      <item value="Route Visitors to" />
-      <item value="There are no other agents available.You cannot transfer the ongoing chat to another agent." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="544" />
-        <entry key="ENGLISH" value="544" />
+        <entry key="CHINESE" value="545" />
+        <entry key="ENGLISH" value="546" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
