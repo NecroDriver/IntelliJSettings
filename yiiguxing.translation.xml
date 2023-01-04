@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="Out Of Queue Limit" />
       <item value="interval" />
       <item value="receiver Id" />
       <item value="接收人id" />
@@ -53,12 +54,11 @@
       <item value="enable" />
       <item value="enabled" />
       <item value="Queued chats with a higher priority are distributed before those with a lower setting. When priority is the same for multiple chats in the queue, chats will be distributed sequentially based on the time they entered the queue. By default, each chat request is assigned with the Normal priority." />
-      <item value="Priority" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="546" />
-        <entry key="ENGLISH" value="547" />
+        <entry key="CHINESE" value="547" />
+        <entry key="ENGLISH" value="548" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
@@ -73,7 +73,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1672402072682" />
+    <option name="lastTrimTime" value="1672843815644" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
