@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="Sorry, you has been baned by agent!" />
+      <item value="is Ban" />
+      <item value="has Rate" />
+      <item value="is Rating" />
+      <item value="has Rating" />
       <item value="The chat transcript has been send to" />
       <item value="download chat transcript" />
       <item value="Rating submitted successfully.Thanks for your support." />
@@ -49,16 +54,11 @@
       <item value="distributes chats to agents with a higher concurrent chat limit ratio before those with lower ones." />
       <item value="Robin" />
       <item value="Round Robin distributes chats to agents one by one sequentially based on the order they get online." />
-      <item value="Load Balancing distributes chats to the agent who has the least number of chats at the moment." />
-      <item value="Chat Distribution Rule defines how chat requests of a department are distributed to agents." />
-      <item value="Last-chatted Agent Preferred" />
-      <item value="Auto Distribution Method" />
-      <item value="auto Distribution" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="552" />
-        <entry key="ENGLISH" value="553" />
+        <entry key="CHINESE" value="558" />
+        <entry key="ENGLISH" value="559" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
