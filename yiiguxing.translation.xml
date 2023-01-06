@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="The chat transcript has been send to" />
+      <item value="download chat transcript" />
+      <item value="Rating submitted successfully.Thanks for your support." />
       <item value="原来的" />
       <item value="重新开启聊天" />
       <item value="show Typing Indicator" />
@@ -51,14 +54,11 @@
       <item value="Last-chatted Agent Preferred" />
       <item value="Auto Distribution Method" />
       <item value="auto Distribution" />
-      <item value="change Enabled" />
-      <item value="A qualifier can be specified to aid the selection process of a suitable mapper. This is useful in case multiple mapping methods (hand written or generated) qualify and thus would result in an 'Ambiguous mapping methods found' error. A qualifier is a custom annotation and can be placed on a hand written mapper class or a method." />
-      <item value="Whether the property specified via {@link target()} should be ignored by the generated mapping method or not. This can be useful when certain attributes should not be propagated from source or target or when properties in the target object are populated using a decorator and thus would be reported as unmapped target property by default. @return {@code true} if the given property should be ignored, {@code false} otherwise" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="550" />
-        <entry key="ENGLISH" value="550" />
+        <entry key="CHINESE" value="552" />
+        <entry key="ENGLISH" value="553" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
