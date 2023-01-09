@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="操作时长" />
+      <item value="操作时间" />
+      <item value="action Duration" />
       <item value="Summary" />
       <item value="it's been a while since your last response. Please respond within the next few minutes or this chat will be ended." />
       <item value="Sorry, you has been baned by agent!" />
@@ -51,14 +54,11 @@
       <item value="Auto Accept Chats" />
       <item value="For Each Agent" />
       <item value="For All Agents" />
-      <item value="Maximum Number of Concurrent Auto-Accepted Chats" />
-      <item value="Backup Department" />
-      <item value="distributes chats to agents with a higher concurrent chat limit ratio before those with lower ones." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="560" />
-        <entry key="ENGLISH" value="561" />
+        <entry key="CHINESE" value="563" />
+        <entry key="ENGLISH" value="563" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
