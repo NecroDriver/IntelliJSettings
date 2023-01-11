@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="查询开始时间戳" />
       <item value="visitor Entry Time" />
       <item value="访客进入时间" />
       <item value="操作时长" />
@@ -53,11 +54,10 @@
       <item value="table Hidden" />
       <item value="Allow agents to manually accept chats when their concurrent chat number reaches the maximum value" />
       <item value="Maximum Chat Number" />
-      <item value="Auto Accept Chats" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="564" />
+        <entry key="CHINESE" value="565" />
         <entry key="ENGLISH" value="565" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
@@ -73,7 +73,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1672843815644" />
+    <option name="lastTrimTime" value="1673449802591" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
