@@ -4,6 +4,20 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="excluded" />
+      <item value="exclude" />
+      <item value="excluded Status" />
+      <item value="exclude User Id List" />
+      <item value="Install Code" />
+      <item value="chat Utilization" />
+      <item value="chatutilization" />
+      <item value="CHATUTILIZATION" />
+      <item value="agents Logged In Num" />
+      <item value="visitors On Site Num" />
+      <item value="Live Chat Count Dto" />
+      <item value="statistic" />
+      <item value="statistics" />
+      <item value="Live Chat Statistics Ctrl" />
       <item value="secure Form" />
       <item value="recipient" />
       <item value="查询开始时间戳" />
@@ -40,25 +54,11 @@
       <item value="Write a reply..." />
       <item value="Agent Customer Service" />
       <item value="访客对象" />
-      <item value="check Agent Available" />
-      <item value="When enabled, there will always be three avatars in the header. If you only have 1 or 2 agents, system avatars will be added to make up for the missed ones." />
-      <item value="Open page in a new windowtab" />
-      <item value="Page URL" />
-      <item value="Place text label above the input" />
-      <item value="Place text label on the left of the input" />
-      <item value="Define the position of text label and input box for fields in visitor side windows." />
-      <item value="Greeting Message" />
-      <item value="Redirect visitors to a custom page" />
-      <item value="Use default offline message window" />
-      <item value="When your team is unavailable, the offline message window allows your visitors to leave messages that you can view and follow up on later." />
-      <item value="Offline Message" />
-      <item value="hidden" />
-      <item value="table Hidden" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="566" />
-        <entry key="ENGLISH" value="567" />
+        <entry key="CHINESE" value="580" />
+        <entry key="ENGLISH" value="581" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
