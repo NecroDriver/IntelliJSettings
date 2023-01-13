@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="get Last Day" />
+      <item value="Gregorian Calendar" />
       <item value="series Data" />
       <item value="agent Title" />
       <item value="file Address Prefix" />
@@ -52,13 +54,11 @@
       <item value="Simulate" />
       <item value="You have no visitors now." />
       <item value="无可用分配路由" />
-      <item value="Please select an agent" />
-      <item value="transfer Fn" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="584" />
-        <entry key="ENGLISH" value="585" />
+        <entry key="CHINESE" value="586" />
+        <entry key="ENGLISH" value="587" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
