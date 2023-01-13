@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="file Address Prefix" />
+      <item value="文件访问地址" />
       <item value="external.yaml" />
       <item value="excluded" />
       <item value="exclude" />
@@ -52,13 +54,11 @@
       <item value="transfer Fn" />
       <item value="Connecting" />
       <item value="连接状态" />
-      <item value="Write a reply..." />
-      <item value="Agent Customer Service" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="581" />
-        <entry key="ENGLISH" value="582" />
+        <entry key="CHINESE" value="582" />
+        <entry key="ENGLISH" value="583" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
